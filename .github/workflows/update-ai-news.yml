@@ -19,8 +19,9 @@ jobs:
           node-version: '18'
 
       - name: Install dependencies
-        # We need Eleventy to build the site
-        run: npm install -g @11ty/eleventy
+        run: |
+          npm install -g @11ty/eleventy
+          npm install --prefix ahennews axios
 
       - name: Fetch AI News
         env:

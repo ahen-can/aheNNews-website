@@ -52,7 +52,7 @@ async function main() {
     newsData[topic] = await fetchNewsForTopic(topic, query);
   }
 
-  const outputPath = './_data/ai_news.json';
+  const outputPath = 'ahennews/_data/ai_news.json';
   fs.writeFileSync(outputPath, JSON.stringify(newsData, null, 2));
   console.log(`Successfully wrote updated news to ${outputPath}`);
 }
