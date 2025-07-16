@@ -14,7 +14,7 @@ async function fetchNewsForTopic(topic, query) {
   // Using the /v2/top-headlines endpoint is better for country-specific news.
   // We set country to 'in' and category to 'business'.
   // The 'q' parameter will further refine the search within Indian business news.
-  const url = `https://newsapi.org/v2/top-headlines?country=in&category=business&q=${encodeURIComponent(query)}&apiKey=${apiKey}`;
+  const url = `https://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=${apiKey}`;
 
   try {
     console.log(`Fetching news for ${topic}...`);
