@@ -18,7 +18,10 @@ async function fetchNewsForTopic(topic, query) {
 
   try {
     console.log(`Fetching news for ${topic}...`);
+    console.log(`API URL: ${url}`); // Log the URL being called
     const response = await axios.get(url);
+    console.log(`API Response Status: ${response.status}`); // Log the HTTP status
+    console.log(`Articles received: ${response.data.articles.length}`); // Log number of articles
 
     if (response.data.articles.length === 0) {
       console.log(`No articles found for ${topic}. Try broadening your search query.`);
@@ -32,6 +35,9 @@ async function fetchNewsForTopic(topic, query) {
     }));
   } catch (error) {
     console.error(`Error fetching news for ${topic}:`, error.message);
+    if (error.response) {
+      console.error(`API Error Data:`, error.response.data); // Log API error details
+    }
     return []; // Return an empty array on error
   }
 }
