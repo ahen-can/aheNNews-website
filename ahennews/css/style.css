@@ -4,8 +4,10 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 body {
-  background-color: #e4ffc9;            /* light mint green */
+  background-color: #e4ffc9;
+  /* light mint green  #84B701 #e4ffc9 */
   font-family: Verdana, Arial, sans-serif;
   font-size: 14px;
   color: #333;
@@ -14,9 +16,11 @@ body {
 
 /* Header / Top Nav */
 header {
-  background-color: #2a4b7c;            /* deep forum blue */
+  background-color: #2a4b7c;
+  /* deep forum blue */
   color: #ffffff;
 }
+
 header .container {
   max-width: 1000px;
   margin: 0 auto;
@@ -25,15 +29,23 @@ header .container {
   align-items: center;
   justify-content: space-between;
 }
+
 header h1 {
   font-size: 20px;
 }
+
+header h1 a {
+  color: #84B701;
+  text-decoration: none;
+}
+
 header nav a {
   color: #ffffff;
   margin-left: 20px;
   text-decoration: none;
   font-weight: bold;
 }
+
 header nav a:hover {
   text-decoration: underline;
 }
@@ -42,7 +54,8 @@ header nav a:hover {
 .notice {
   max-width: 1000px;
   margin: 10px auto;
-  background-color: #f1f3f3;           /* light gray box */
+  background-color: #f1f3f3;
+  /* light gray box */
   border: 1px solid #ccc;
   padding: 10px 15px;
   font-size: 13px;
@@ -62,28 +75,34 @@ header nav a:hover {
   width: 200px;
   margin-right: 20px;
 }
+
 .sidebar .panel {
   background-color: #ffffff;
   border: 1px solid #ccc;
   margin-bottom: 15px;
 }
+
 .sidebar .panel h3 {
   background-color: #2a4b7c;
   color: #fff;
   font-size: 14px;
   padding: 8px;
 }
+
 .sidebar .panel ul {
   list-style: none;
   padding: 10px;
 }
-.sidebar .panel ul li + li {
+
+.sidebar .panel ul li+li {
   margin-top: 6px;
 }
+
 .sidebar .panel ul li a {
   color: #0066cc;
   text-decoration: none;
 }
+
 .sidebar .panel ul li a:hover {
   text-decoration: underline;
 }
@@ -99,32 +118,40 @@ header nav a:hover {
   border-collapse: collapse;
   margin-bottom: 20px;
 }
+
 .forum-table thead {
   background-color: #2a4b7c;
   color: #fff;
 }
+
 .forum-table thead th {
   padding: 8px 10px;
   font-weight: bold;
   text-align: left;
 }
+
 .forum-table tbody tr:nth-child(odd) {
   background-color: #ffffff;
 }
+
 .forum-table tbody tr:nth-child(even) {
   background-color: #edf1f1;
 }
+
 .forum-table tbody tr:hover {
   background-color: #d9e4e4;
 }
+
 .forum-table td {
   padding: 8px 10px;
   border-bottom: 1px solid #ccc;
 }
+
 .thread-title {
   color: #0066cc;
   font-weight: bold;
 }
+
 .thread-title:hover {
   text-decoration: underline;
 }
@@ -145,14 +172,17 @@ footer {
   .wrapper {
     flex-direction: column;
   }
+
   .sidebar {
     width: 100%;
     margin-bottom: 15px;
   }
+
   header .container {
     flex-direction: column;
     align-items: flex-start;
   }
+
   header nav {
     margin-top: 8px;
   }
