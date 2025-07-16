@@ -15,7 +15,8 @@ async function fetchNewsForTopic(topic, query) {
   // Using the /v2/top-headlines endpoint is better for country-specific news.
   // We set country to 'in' and category to 'business'.
   // The 'q' parameter will further refine the search within Indian business news.
-  const url = `https://newsapi.org/v2/everything?q=${encodeURIComponent(query)}&language=en&sortBy=relevancy&apiKey=${apiKey}`;
+  const indianDomains = 'timesofindia.indiatimes.com,thehindu.com,hindustantimes.com,indianexpress.com,ndtv.com,livemint.com,businesstoday.in';
+  const url = `https://newsapi.org/v2/everything?q=${encodeURIComponent(query)}&domains=${indianDomains}&language=en&sortBy=relevancy&apiKey=${apiKey}`;
 
   try {
     console.log(`Fetching news for ${topic}...`);
