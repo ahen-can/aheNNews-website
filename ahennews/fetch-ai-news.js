@@ -6,6 +6,7 @@ const axios = require('axios');
 // Fetches Indian business news from NewsAPI.org
 async function fetchNewsForTopic(topic, query) {
   const apiKey = process.env.NEWS_API_KEY;
+  console.log(`DEBUG: NEWS_API_KEY value: ${apiKey ? 'SET' : 'NOT SET'}`);
   if (!apiKey) {
     console.error('ERROR: NewsAPI key not set in environment variables.');
     return [];
