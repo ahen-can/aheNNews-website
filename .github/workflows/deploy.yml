@@ -10,6 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write # Grant write permissions to GITHUB_TOKEN
+      id-token: write # Grant ID token permissions for deploy-pages
 
     steps:
     - name: Checkout
