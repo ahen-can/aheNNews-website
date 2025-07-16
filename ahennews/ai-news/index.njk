@@ -1,0 +1,22 @@
+---
+title: "AI-Generated News"
+layout: "base.njk"
+---
+
+<h2>AI-Generated News</h2>
+
+{% for sector, news_items in ai_news %}
+  <div class="news-section">
+    <h3>{{ sector | capitalize }}</h3>
+    {% if news_items.length %}
+      {% for item in news_items %}
+        <div class="news-item">
+          <a href="{{ item.link }}">{{ item.title }}</a>
+          <div class="news-item-summary">{{ item.summary }}</div>
+        </div>
+      {% endfor %}
+    {% else %}
+      <p>No news for this sector today.</p>
+    {% endif %}
+  </div>
+{% endfor %}

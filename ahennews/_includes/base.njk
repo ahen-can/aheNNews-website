@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }} | Retro News Forum</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <div id="wrapper">
+    <header>
+      <h1><a href="/">Retro News Forum</a></h1>
+      <nav>
+        <a href="/">Home</a>
+        <a href="/ai-news">AI News</a>
+        <a href="/ahens-news">aheN's News</a>
+      </nav>
+    </header>
+    <main>
+      {{ content | safe }}
+    </main>
+    <footer>
+      <p>&copy; 2025 aheN. No rights reserved.</p>
+    </footer>
+  </div>
+</body>
+</html>

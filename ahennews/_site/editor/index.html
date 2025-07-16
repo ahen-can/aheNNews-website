@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>New Post Editor</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <header>
+    <h1><a href="/">Retro News Forum</a></h1>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/ai-news">AI News</a>
+      <a href="/ahens-news">Ahen's News</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Create New Post</h2>
+    <form id="new-post-form">
+      <label for="title">Title:</label><br>
+      <input type="text" id="title" name="title" required><br><br>
+
+      <label for="sector">Sector:</label><br>
+      <input type="text" id="sector" name="sector" required><br><br>
+
+      <label for="rating">Rating (1-5):</label><br>
+      <input type="number" id="rating" name="rating" min="1" max="5" required><br><br>
+
+      <label for="content">Content (Markdown):</label><br>
+      <textarea id="content" name="content" rows="10" cols="50" required></textarea><br><br>
+
+      <button type="submit">Generate File</button>
+    </form>
+
+    <h3>Generated File Content</h3>
+    <pre id="generated-output"></pre>
+  </main>
+
+  <script>
+    document.getElementById('new-post-form').addEventListener('submit', function(e) {
+      e.preventDefault();
+
+      const title = document.getElementById('title').value;
+      const sector = document.getElementById('sector').value;
+      const rating = document.getElementById('rating').value;
+      const content = document.getElementById('content').value;
+      const date = new Date().toISOString().split('T')[0];
+      const filename = title.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '') + '.md';
+
+      const fileContent = `
+---
+title: "${title}"
+date: ${date}
+sector: "${sector}"
+rating: ${rating}
+layout: "base.njk"
+---
+
+${content}
+      `;
+
+      const output = `File: /posts/${filename}\n\n${fileContent}`;
+      document.getElementById('generated-output').textContent = output;
+    });
+  </script>
+</body>
+</html>

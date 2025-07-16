@@ -1,0 +1,39 @@
+
+name: Update AI News
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        # We need Eleventy to build the site
+        run: npm install -g @11ty/eleventy
+
+      - name: Fetch AI News
+        run: node ./fetch-ai-news.js # This script generates the news
+
+      - name: Build Eleventy site
+        run: npx @11ty/eleventy
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add _data/ai_news.json
+          # Add other files if the build output needs to be committed
+          # git add _site/
+          git commit -m "Automated AI news update" || echo "No changes to commit"
+          git push
