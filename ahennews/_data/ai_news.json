@@ -1,7 +1,137 @@
 {
-  "Indian Economy": [],
-  "Stock Market": [],
-  "Startups & Funding": [],
-  "Banking & Finance": [],
-  "Technology Sector": []
+  "Indian Economy": [
+    {
+      "title": "Russia has seized around $50 billion of assets as its wartime economy comes under pressure",
+      "summary": "In 2024, Russia's federal budget received 132 billion rubles from property sales.",
+      "link": "https://www.businessinsider.com/russia-economy-asset-seizure-expropriation-nationalization-wartime-budget-sanctions-pressure-2025-7"
+    },
+    {
+      "title": "The nine Nato countries that missed their defence spending targets",
+      "summary": "As Nato leaders meet to agree big increases in targets for defence spending, some of them haven't yet met the existing ones.",
+      "link": "https://www.bbc.com/news/articles/ckg3082d3ero"
+    },
+    {
+      "title": "Housing market set for the 'worst year in decades,' says Meredith Whitney",
+      "summary": "Meredith Whitney Advisory Group expects the housing market to \"weaken throughout the year,\" posing issues for the wider US economy.",
+      "link": "https://www.businessinsider.com/house-prices-market-set-worst-year-decades-meredith-whitney-2025-6"
+    },
+    {
+      "title": "Faisal Islam: We are heading for significant tax rises",
+      "summary": "Repeatedly borrowing more is not a long-term solution to rising day-to-day spending pressures.",
+      "link": "https://www.bbc.com/news/articles/c9dgn647nplo"
+    },
+    {
+      "title": "Russia's top regulator tells Putin how companies outmaneuver Western sanctions",
+      "summary": "Russia's new sanctions-busting method is \"netting,\" an accounting tactic.",
+      "link": "https://www.businessinsider.com/russia-economy-regulator-putin-companies-western-sanctions-netting-crypto-gold-2025-7"
+    }
+  ],
+  "Stock Market": [
+    {
+      "title": "Building a Piezo Noise Box",
+      "summary": "The humble piezo element is often used as little more than a buzzer in many projects. However, you can do more with them, as [Something Physical] demonstrates with their nifty piezo noise box. Chec…",
+      "link": "https://hackaday.com/2025/06/29/building-a-piezo-noise-box/"
+    },
+    {
+      "title": "Shadow Clock Shows The Time On The Wall",
+      "summary": "What if you build a clock that displayed the time not just on its own, but in its shadows as well? [Lewis] from [DIY Machines] has done just that, with a nifty 3D-printed shadow clock build. The cl…",
+      "link": "https://hackaday.com/2025/07/05/shadow-clock-shows-the-time-on-the-wall/"
+    },
+    {
+      "title": "Snap & Grab Is an '80s Glam Heist Game That's 'Hitman' meets Pokémon Snap",
+      "summary": "Take photos, steal art from rich bozos. What's not to like?",
+      "link": "https://www.cnet.com/tech/gaming/snap-grab-is-an-80s-glam-heist-game-thats-hitman-meets-pokemon-snap/"
+    },
+    {
+      "title": "Need a Testosterone Boost? Maybe Try Some Ozempic",
+      "summary": "New research finds that men taking a GLP-1 for their obesity or type 2 diabetes often experience a rise in testosterone levels.",
+      "link": "https://gizmodo.com/need-a-testosterone-boost-maybe-try-some-ozempic-2000628911"
+    },
+    {
+      "title": "Our biggest questions about ChromeOS and Android merging",
+      "summary": "Samit Sarkar, Google's head of Android ecosystems, recently confirmed that Android and ChromeOS will be merged into a single platform, reigniting a slew of questions about the future of the operating systems. Combining them makes sense. It made sense way back…",
+      "link": "https://www.theverge.com/google/707041/google-chromeos-android-os-merger-questions-phones-chromebooks-laptops-tablets"
+    }
+  ],
+  "Startups & Funding": [
+    {
+      "title": "Andreessen Horowitz Backs AI Startup Whose Motto Is ‘Cheat at Everything’",
+      "summary": "A new company with VC funding promises to help you fake your way through life.",
+      "link": "https://gizmodo.com/andreessen-horowitz-backs-ai-startup-whose-motto-is-cheat-at-everything-2000619302"
+    },
+    {
+      "title": "Startup founders and others in tech call on Sequoia Capital to act after a partner called Zohran Mamdani an 'Islamist'",
+      "summary": "Self-described tech workers and founders are petitioning the venture capital company to take disciplinary action over a partner's comments.",
+      "link": "https://www.businessinsider.com/open-letter-sequoia-capital-partner-shaun-maguire-zohran-mamdani-islamist-2025-7"
+    },
+    {
+      "title": "Peter Thiel and His Goons Are Launching Their Own Bank (Yes, It has a Tolkien-Inspired Name)",
+      "summary": "They're trolling us, right?",
+      "link": "https://gizmodo.com/peter-thiel-and-his-goons-are-launching-their-own-bank-yes-it-has-a-tolkien-inspired-name-2000623443"
+    },
+    {
+      "title": "New York tech leaders are trying to unseat San Francisco for the future of the industry",
+      "summary": "New York is investing in its AI industry. Tech:NYC, an organization aimed at growing the city's tech industry, also secured new funding.",
+      "link": "https://www.businessinsider.com/nyc-vs-sf-new-york-san-francisco-tech-industry-2025-7"
+    },
+    {
+      "title": "Meet 19 startups in social networking, dating, and AI that investors have their eyes on",
+      "summary": "Business Insider spoke with nine VC investors about what buzzy consumer social startups are on their radars.",
+      "link": "https://www.businessinsider.com/consumer-startups-watch-social-dating-ai-according-to-vc-investors-2025-6"
+    }
+  ],
+  "Banking & Finance": [
+    {
+      "title": "Grandmother faces losing home over climate protest",
+      "summary": "Jane McCarthy believes the council's pension fund and banking are \"investments in climate destruction\".",
+      "link": "https://www.bbc.com/news/articles/cx24r79zxnno"
+    },
+    {
+      "title": "Ripple Applies For US Banking License",
+      "summary": "Ripple Labs is applying for a U.S. national bank charter and a Federal Reserve master account, \"following a similar move by stablecoin issuer Circle Internet Group as crypto firms look to be regulated to deepen ties with traditional finance,\" reports CoinTele…",
+      "link": "https://news.slashdot.org/story/25/07/03/2335200/ripple-applies-for-us-banking-license"
+    },
+    {
+      "title": "The executives behind Palmer Luckey's new digital banking startup Erebor include banking, politics, and Big Law vets",
+      "summary": "Senior staff at Erebor, a tech-focused banking startup, have worked at Palmer Luckey's family office, in tech startups, and at other banks.",
+      "link": "https://www.businessinsider.com/palmer-luckey-erebor-bank-executives-list-2025-7"
+    },
+    {
+      "title": "JPMorgan kicks off bank earnings with a surprise gain in dealmaking",
+      "summary": "JPMorgan said investment banking fees rose 7%, defying Wall Street projections and tariff woes. It's the first big bank to report second-quarter earnings.",
+      "link": "https://www.businessinsider.com/jpmorgan-second-quarter-earnings-surprise-gain-investment-banking-fees-dealmaking-2025-7"
+    },
+    {
+      "title": "Everyone is saying AI will reshape banking. A new report forecasts exactly how much.",
+      "summary": "A new report from the consultancy ThoughtLinks models which parts of Wall Street may look totally different in five years.",
+      "link": "https://www.businessinsider.com/how-ai-could-transform-investment-banking-wealth-management-2030-2025-7"
+    }
+  ],
+  "Technology Sector": [
+    {
+      "title": "Billionaire Island Where Bezos Lives Lobbies State Gov to Flush Its Poop Down Neighbor Town’s Pipes",
+      "summary": "A recent skirmish over the 1 percent's feces is currently being worked out by the Florida state legislature.",
+      "link": "https://gizmodo.com/billionaire-island-where-bezos-lives-lobbies-state-gov-to-flush-its-poop-down-neighbor-towns-pipes-2000615795"
+    },
+    {
+      "title": "As Sales Drop, Tesla Makes a Big Gamble on India",
+      "summary": "With its sales cratering in the West, the electric vehicle giant is making a high-stakes pivot to the world's third-largest auto market.",
+      "link": "https://gizmodo.com/as-sales-drop-tesla-makes-a-big-gamble-on-india-2000628824"
+    },
+    {
+      "title": "Is the UK about to get dragged in to this conflict?",
+      "summary": "Britain is almost certain to be affected if the US gets involved - but what role could it play?",
+      "link": "https://www.bbc.com/news/articles/c36x1d071k8o"
+    },
+    {
+      "title": "Search for survivors after Houthis sink Red Sea cargo ship",
+      "summary": "At least three of the 25 people on board the Eternity C were killed after it was attacked by the Yemen-based group.",
+      "link": "https://www.bbc.com/news/articles/c3071vp2d8yo"
+    },
+    {
+      "title": "How The New York Times is (still) getting gamed by the right",
+      "summary": "Lately, it has been difficult to ignore a tendency at The New York Times to make astonishingly bad news judgments. The paper's obsession with a view from nowhere is long-standing, but as Republicans increasingly circulate insane conspiracy theories and racist…",
+      "link": "https://www.theverge.com/culture/700082/nyt-mamdani-news-judgment"
+    }
+  ]
 }
