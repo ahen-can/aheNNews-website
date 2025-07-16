@@ -30,6 +30,7 @@ jobs:
 
       - name: Build Eleventy site
         run: npx @11ty/eleventy
+        working-directory: ahennews
 
       - name: Commit and push changes
         run: |
