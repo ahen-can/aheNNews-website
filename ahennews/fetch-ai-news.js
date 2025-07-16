@@ -2,6 +2,26 @@
 const fs = require('fs');
 const axios = require('axios');
 
+// Helper function to get end date (today's date) in YYYY-MM-DD format
+function getEndDate() {
+  const today = new Date();
+  const year = today.getFullYear();
+  const month = String(today.getMonth() + 1).padStart(2, '0'); // Months are 0-indexed
+  const day = String(today.getDate()).padStart(2, '0');
+  return `${year}-${month}-${day}`;
+}
+
+// Helper function to get start date (two days ago) in YYYY-MM-DD format
+function getStartDate() {
+  const today = new Date();
+  const startDate = new Date(today);
+  startDate.setDate(today.getDate() - 2); // Two days ago
+  const year = startDate.getFullYear();
+  const month = String(startDate.getMonth() + 1).padStart(2, '0');
+  const day = String(startDate.getDate()).padStart(2, '0');
+  return `${year}-${month}-${day}`;
+}
+
 // --- Real News Fetcher ---
 // Fetches Indian business news from NewsAPI.org
 async function fetchNewsForTopic(topic, query) {
@@ -12,11 +32,10 @@ async function fetchNewsForTopic(topic, query) {
     return [];
   }
 
-  // Using the /v2/top-headlines endpoint is better for country-specific news.
-  // We set country to 'in' and category to 'business'.
-  // The 'q' parameter will further refine the search within Indian business news.
+  const startDate = getStartDate();
+  const endDate = getEndDate();
   const indianDomains = 'timesofindia.indiatimes.com,thehindu.com,hindustantimes.com,indianexpress.com,ndtv.com,livemint.com,businesstoday.in';
-  const url = `https://newsapi.org/v2/everything?q=${encodeURIComponent(query)}&domains=${indianDomains}&language=en&sortBy=relevancy&apiKey=${apiKey}`;
+  const url = `https://newsapi.org/v2/everything?q=${encodeURIComponent(query)}&domains=${indianDomains}&language=en&from=${startDate}&to=${endDate}&apiKey=${apiKey}`;
 
   try {
     console.log(`Fetching news for ${topic}...`);
