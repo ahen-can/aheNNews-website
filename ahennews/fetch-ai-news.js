@@ -5,7 +5,7 @@ const axios = require('axios');
 // --- Real News Fetcher ---
 // Fetches news from NewsAPI.org
 async function fetchNewsForSector(sector) {
-  const apiKey = process.env.NEWS_API_KEY || '02bc503d4905419eb9097b86d93f834f'; // Replace with your key or use environment variables
+  const apiKey = process.env.NEWS_API_KEY; // Replace with your key or use environment variables
   if (apiKey === 'YOUR_API_KEY') {
     console.error('ERROR: NewsAPI key not set. Please replace "YOUR_API_KEY" with your actual key.');
     return [];

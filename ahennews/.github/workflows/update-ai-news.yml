@@ -23,6 +23,8 @@ jobs:
         run: npm install -g @11ty/eleventy
 
       - name: Fetch AI News
+        env:
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
         run: node ./fetch-ai-news.js # This script generates the news
 
       - name: Build Eleventy site
