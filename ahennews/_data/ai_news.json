@@ -6,6 +6,7 @@
       "link": "https://www.livemint.com/companies/news/indonesia-to-continue-talks-on-jets-minerals-after-tariffs-deal-11752739057259.html"
     },
     {
+<<<<<<< HEAD
       "title": "China Vows to Address ‘Irrational Competition’ in EV Sector",
       "summary": "China pledged to rein in “irrational competition” in its electric vehicle sector, reflecting authorities’ increasing urgency to tackle deflationary price wars threatening economic and industrial growth.",
       "link": "https://www.livemint.com/industry/china-vows-to-address-irrational-competition-in-ev-sector-11752728159737.html"
@@ -14,6 +15,26 @@
       "title": "TSMC Raises 2025 Outlook in a Big Boost for AI Demand Hopes",
       "summary": "Taiwan Semiconductor Manufacturing Co. raised its outlook for 2025 revenue growth, shoring up investors’ confidence in the momentum of the global AI spending spree.",
       "link": "https://www.livemint.com/companies/news/tsmc-raises-2025-outlook-in-a-big-boost-for-ai-demand-hopes-11752746505486.html"
+=======
+      "title": "Mint Quick Edit | External front stability: Good news, but not entirely",
+      "summary": "Despite global turbulence, India’s external balances are well within safety limits in the context of the economy’s macro stability. Capital flows, though, have been disappointing.",
+      "link": "https://www.livemint.com/opinion/online-views/india-current-account-balance-rupee-exchange-rate-trade-deficit-services-exports-remittances-rbi-foreign-gdp-external-11751205726976.html"
+    },
+    {
+      "title": "India’s informal sector isn’t off the map: It’s being tracked better than ever",
+      "summary": "Arguments of GDP over- or under-estimation fall flat in the face of statistical progress made by India to measure this sector closely. The timeliness and regularity of NSS data have improved and surveys suggest this sector’s growth has lately been robust.",
+      "link": "https://www.livemint.com/opinion/online-views/india-gdp-measurement-niti-aayog-world-bank-informal-sector-national-account-statistics-ministry-of-statistics-nss-mospi-11750247868584.html"
+    },
+    {
+      "title": "Reduce friction: Let regulated stablecoins transform India’s remittance economy",
+      "summary": "The Reserve Bank of India (RBI) has a digital currency under trial, but it may be time for RBI-regulated rupee-pegged stablecoins to help expand the adoption of blockchain-based money. Stablecoins can make global money transfers more efficient and also enhanc…",
+      "link": "https://www.livemint.com/opinion/online-views/stablecoins-india-digital-rupee-cross-border-payments-rbi-cbdc-blockchain-remittances-upi-transactions-web-3-0-aadhaar-11752225816163.html"
+    },
+    {
+      "title": "Barry Eichengreen: Germany’s budget expansion makes sense while America’s is reckless",
+      "summary": "Berlin is relaxing its austerity rule for good reasons—such as security and long-term growth—while Washington appears to have abandoned all fiscal responsibility with Trump’s One Big Beautiful Bill. Where this will leave the US is a question we can’t duck.",
+      "link": "https://www.livemint.com/opinion/online-views/us-budget-germany-budget-donald-trump-friedrich-merz-congressional-budget-office-byrd-rule-republican-party-germany-debt-11752505192074.html"
+>>>>>>> 2fef724d59c669d4568623b0ec49036014b1e011
     }
   ],
   "Stock Market": [
