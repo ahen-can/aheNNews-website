@@ -34,7 +34,7 @@ async function fetchNewsForTopic(topic, query) {
 
   const startDate = getStartDate();
   const endDate = getEndDate();
-  const indianDomains = 'timesofindia.indiatimes.com,thehindu.com,hindustantimes.com,indianexpress.com,ndtv.com,livemint.com,businesstoday.in';
+  const indianDomains = 'timesofindia.indiatimes.com,thehindu.com,hindustantimes.com,indianexpress.com,ndtv.com,livemint.com,businesstoday.in,business-standard.com,economictimes.indiatimes.com,thehindubusinessline.com';
   const url = `https://newsapi.org/v2/everything?q=${encodeURIComponent(query)}&domains=${indianDomains}&language=en&from=${startDate}&to=${endDate}&apiKey=${apiKey}`;
 
   try {
@@ -52,7 +52,8 @@ async function fetchNewsForTopic(topic, query) {
     return response.data.articles.slice(0, 5).map(article => ({
       title: article.title,
       summary: article.description || 'No summary available.', // Handle cases where description is null
-      link: article.url
+      link: article.url,
+      source: article.source.name // Add the source name
     }));
   } catch (error) {
     console.error(`Error fetching news for ${topic}:`, error.message);

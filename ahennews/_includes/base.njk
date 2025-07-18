@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,21 +7,50 @@
   <link rel="stylesheet" href="{{ '/css/style.css' | url }}">
 </head>
 <body>
-  <div id="wrapper">
-    <header>
+  <header>
+    <div class="container">
       <h1><a href="{{ '/' | url }}">Retro News Forum</a></h1>
       <nav>
         <a href="{{ '/' | url }}">Home</a>
         <a href="{{ '/ai-news' | url }}">AI News</a>
         <a href="{{ '/ahens-news' | url }}">aheN's News</a>
       </nav>
-    </header>
+    </div>
+  </header>
+  <div id="wrapper">
     <main>
       {{ content | safe }}
     </main>
-    <footer>
-      <p>&copy; 2025 aheN. No rights reserved.</p>
-    </footer>
+    <aside class="sidebar">
+      <div class="panel">
+        <h3>Main Menu</h3>
+        <ul>
+          <li><a href="{{ '/' | url }}">Home</a></li>
+          <li><a href="{{ '/ai-news' | url }}">AI News</a></li>
+          <li><a href="{{ '/ahens-news' | url }}">aheN's News</a></li>
+          <li><a href="#">About Us</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
+      <div class="panel">
+        <h3>Advertisement</h3>
+        <ul>
+          <li><a href="#">Your Ad Here!</a></li>
+          <li><a href="#">Support Us</a></li>
+        </ul>
+      </div>
+      <div class="panel">
+        <h3>My LQ</h3>
+        <ul>
+          <li><a href="#">Login</a></li>
+          <li><a href="#">Register</a></li>
+          <li><a href="#">User CP</a></li>
+        </ul>
+      </div>
+    </aside>
   </div>
+  <footer>
+    <p>&copy; 2025 aheN. No rights reserved.</p>
+  </footer>
 </body>
 </html>
