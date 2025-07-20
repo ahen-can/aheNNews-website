@@ -11,7 +11,7 @@ layout: "base.njk"
     {% if news_items.length %}
       {% for item in news_items %}
         <div class="news-item">
-          <a href="{{ item.link }}">{{ item.title }}</a>
+          <a href="{{ item.link }}" target="_blank" rel="noopener noreferrer">{{ item.title }}</a>
           <div class="news-meta">Source: {{ item.source }}</div>
           <div class="news-item-summary">{{ item.summary }}</div>
         </div>
