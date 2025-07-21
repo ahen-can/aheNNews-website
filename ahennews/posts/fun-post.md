@@ -1,9 +1,10 @@
 ---
 title: "CPI expanded 2.1% in June, slowest since 2019"
-sector: "Fun"
+sector: "Macro"
 rating: "3/5"
 date: "2025-07-14"
 source: "[Mint](https://www.livemint.com/economy/indias-retail-inflation-drops-to-a-multi-year-low-at-2-10-in-june-2025-food-inflation-lowest-since-january-2019-11752489431431.html)"
+layout: "base.njk"
 ---
 
 India's retail inflation drops to multi-year low of 2.1%
