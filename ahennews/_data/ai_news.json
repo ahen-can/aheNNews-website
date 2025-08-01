@@ -1,37 +1,49 @@
 {
   "Indian Economy": [
     {
-      "title": "IMF ups India’s GDP forecast for FY26, FY27",
-      "summary": "IMF raises India's growth forecast amidst tariff uncertainty, projecting 6.4% growth for FY2025-26 and FY2026-27.",
-      "link": "https://www.thehindubusinessline.com/economy/imf-ups-indias-gdp-forecast-for-fy26-fy27/article69869411.ece",
-      "source": "BusinessLine"
-    },
-    {
       "title": "P&G succession: Let’s applaud the Indian diaspora’s success but also look within",
       "summary": "Shailesh Jejurikar, an executive of Indian origin, is set to reach the top of P&amp;G. This is good news, not ‘brain drain’, but comes amid a trend of outmigration that provokes a few hard questions about India’s economic dynamism.",
       "link": "https://www.livemint.com/opinion/online-views/shailesh-jejurikar-indian-ceos-brain-drain-economic-growth-private-investment-procter-gamble-ai-impact-r-d-pa-11753797692270.html",
       "source": "Livemint"
     },
     {
-      "title": "RBI’s message is clear: Corporate houses shouldn’t expect banking licences",
-      "summary": "RBI Governor Sanjay Malhotra has done well to reiterate the central bank’s long-held policy of keeping corporate houses out of banking. It is best to avoid conflicts of interest in this vital sector and the counter-argument isn’t persuasive.",
-      "link": "https://www.livemint.com/opinion/online-views/rbi-corporate-banking-ban-bank-licensing-policy-connected-lending-private-bank-ownership-sanjay-malhotra-sbi-qip-owner-11753723981140.html",
-      "source": "Livemint"
+      "title": "Gold snaps 5-day losing run; climbs ₹700 to ₹98,520/10 g",
+      "summary": "Gold is trading flat as investors await a slate of key US macroeconomic data, including Q2 GDP, ADP employment, pending home sales, and Federal Open Market Committee (FOMC) interest rate decision",
+      "link": "https://www.thehindubusinessline.com/markets/commodities/gold-snaps-5-day-losing-run-climbs-700-to-9852010-g/article69873499.ece",
+      "source": "BusinessLine"
     },
     {
-      "title": "Mint Quick Edit | India’s industrial weakness mustn’t persist",
-      "summary": "The index of industrial production put up a weak show in June, though a few segments outperformed the rest. What we need, of course, is a long awaited factory boom.",
-      "link": "https://www.livemint.com/opinion/online-views/india-industrial-production-manufacturing-growth-mining-decline-electricity-factory-consumer-durables-gdp-economy-jobs-11753725194944.html",
-      "source": "Livemint"
+      "title": "Trump’s tariff move on Indian goods sparks industry dismay",
+      "summary": "US President Trump's 25% tariff on Indian goods sparks industry dismay, warnings of economic impact and sector-specific challenges.",
+      "link": "https://www.thehindubusinessline.com/economy/trumps-tariff-move-on-indian-goods-sparks-industry-dismay/article69874947.ece",
+      "source": "BusinessLine"
     },
     {
-      "title": "India's construction boom will require better risk management: Marsh report",
-      "summary": "The construction industry is expected to grow by 7.1% in 2025, one of the fastest rates in the IMEA region, but this will require better risk and insurance strategies, the global insurance broker and risk advisor said.",
-      "link": "https://www.livemint.com/industry/infrastructure/india-construction-industry-growth-marsh-global-construction-risk-infrastructure-development-india-construction-11753772970998.html",
-      "source": "Livemint"
+      "title": "India is not creating meaningful employment",
+      "summary": "Recent employment figures conceal the precarity, informality and invisibilised realities of India’s struggling workforce",
+      "link": "https://www.thehindubusinessline.com/opinion/india-is-not-creating-meaningful-employment/article69873439.ece",
+      "source": "BusinessLine"
+    },
+    {
+      "title": "Trump’s 25% tariffs cast shadow over Indian exports",
+      "summary": "Industry experts express concern over US tariffs on Indian goods, urging India to prioritize national interests in trade negotiations.",
+      "link": "https://www.thehindubusinessline.com/economy/trumps-25-tariffs-cast-shadow-over-indian-exports/article69874825.ece",
+      "source": "BusinessLine"
     }
   ],
   "Stock Market": [
+    {
+      "title": "Sensex gains 191 points amid mixed signals as Fed decision looms",
+      "summary": "Sensex rose 190.72 points or 0.23% to 81,528.67 and the Nifty agined 49.30 points or 0.20% to 24,870.40 as of 12.55 PM",
+      "link": "https://www.thehindubusinessline.com/markets/sensex-gains-191-points-amid-mixed-signals-as-fed-decision-looms/article69872818.ece",
+      "source": "BusinessLine"
+    },
+    {
+      "title": "Sensex, Nifty inch up; L&T and NTPC lead the rally",
+      "summary": "Sensex gained 181.02 pts or 0.22% to 81,518.97 at 1.01 pm after a muted opening. Nifty 50 was up by 45.00 pts or 0.18% to 24,866.10",
+      "link": "https://www.thehindubusinessline.com/markets/stock-markets/top-gainers-losers-today-30th-july-sensex-nifty-inch-up-lt-and-ntpc-lead-rally/article69872821.ece",
+      "source": "BusinessLine"
+    },
     {
       "title": "Stock Market Live Update 30 July 2025: Stock to buy today: Swiggy (₹413.55) – BUY",
       "summary": "Stock Market Today | Share Market Live Updates - Find here all the live updates related to Sensex, Nifty, BSE, NSE, share prices and Indian stock markets for  30 July 2025",
@@ -39,123 +51,80 @@
       "source": "BusinessLine"
     },
     {
-      "title": "Nifty Prediction Today – July 29, 2025: Nifty 50 July Futures: Resistance holds well. Go short",
-      "summary": "Nifty 50 outlook and futures analysis with support, resistance levels, and trade strategy for traders in the market.",
-      "link": "https://www.thehindubusinessline.com/portfolio/technical-analysis/nifty-prediction-today-july-29-2025-nifty-50-july-futures-resistance-holds-well-go-short/article69868086.ece",
+      "title": "Nifty Prediction Today – July 30, 2025: Nifty 50 July Futures: Support can limit the downside; go long",
+      "summary": "Nifty 50 July Futures contract can rise to 24,950",
+      "link": "https://www.thehindubusinessline.com/portfolio/technical-analysis/nifty-prediction-today-july-30-2025-nifty-50-july-futures-support-can-limit-the-downside-go-long/article69872335.ece",
       "source": "BusinessLine"
     },
     {
-      "title": "Nifty Bank Prediction Today – July 29, 2025: Nifty Bank July Futures: Support ahead. Go short on a break below it",
-      "summary": "Nifty Bank index outlook: Vulnerable to break crucial support at 55,900, resistance at 56,200, trade strategy included.",
-      "link": "https://www.thehindubusinessline.com/portfolio/technical-analysis/nifty-bank-prediction-today-july-29-2025-nifty-bank-july-futures-support-ahead-go-short-on-a-break-below-it/article69868129.ece",
-      "source": "BusinessLine"
-    },
-    {
-      "title": "Sensex, Nifty likely to open on a subdued note; trade deal, earnings in focus",
-      "summary": "Gift Nifty futures were trading at 24,665 points this morning, indicating that the Nifty 50 will open near Monday's close of 24,680.9",
-      "link": "https://www.thehindubusinessline.com/markets/sensex-nifty-likely-to-open-on-a-subdued-note-trade-deal-earnings-in-focus/article69867865.ece",
-      "source": "BusinessLine"
-    },
-    {
-      "title": "Sensex, Nifty post marginal gains amid mixed trading session",
-      "summary": "Markets displayed modest recovery in afternoon trading on Tuesday, with both benchmark indices managing to reverse morning losses and move into positive territory despite persistent foreign institutional investor outflows and ongoing trade uncertainty.",
-      "link": "https://www.thehindubusinessline.com/markets/stock-markets/sensex-nifty-post-marginal-gains-amid-mixed-trading-session/article69868501.ece",
+      "title": "Nifty Bank Prediction Today – July 30, 2025: Nifty Bank July Futures: Wait for dips to go long",
+      "summary": "Nifty Bank July Futures contract can bounce back from the 56,050-56,000 support zone and rise to 56,400",
+      "link": "https://www.thehindubusinessline.com/portfolio/technical-analysis/nifty-bank-prediction-today-july-30-2025-nifty-bank-july-futures-wait-for-dips-to-go-long/article69872420.ece",
       "source": "BusinessLine"
     }
   ],
-  "Startups & Funding": [
-    {
-      "title": "Sharpsell.ai secures ₹30 crore Series A led by Equentis Angel Fund",
-      "summary": "The Mumbai-based startup, founded in 2022 by Hanuman Kamma and Arun Subramanian, operates a sales playbook automation platform serving over 100,000 sales representatives across 30 Indian companies",
-      "link": "https://www.thehindubusinessline.com/markets/sharpsellai-secures-30-crore-series-a-led-by-equentis-angel-fund/article69868672.ece",
-      "source": "BusinessLine"
-    },
-    {
-      "title": "Eternal in hypergrowth phase: Headcount doubles on expansion drive",
-      "summary": "Eternal (formerly Zomato) more than doubled its workforce in FY25 but this headcount surge has come with falling average salaries, and soaring boardroom compensation.",
-      "link": "https://www.livemint.com/companies/news/eternal-zomato-quick-commerce-blinkit-dark-stores-bristo-11753760694147.html",
-      "source": "Livemint"
-    },
-    {
-      "title": "Singapore ready to rejoin Amaravati project, rekindles ties with Andhra Pradesh",
-      "summary": "Singapore reaffirms support for Amaravati and Andhra Pradesh development after Naidu visit; eyes investment in agriculture, energy, ports, and tech.",
-      "link": "https://www.thehindubusinessline.com/news/national/singapore-ready-to-rejoin-amaravati-project-rekindles-ties-with-andhra-pradesh/article69868861.ece",
-      "source": "BusinessLine"
-    },
-    {
-      "title": "Investors want to make an omelette. These companies are providing the eggs",
-      "summary": "They’re supposedly antibiotic-free, cage-free, cruelty-free and chemical-free. But at  ₹25 apiece, you’ll spend more on one of these eggs than on a kg of onions. And yet, investors are willing to back companies selling branded eggs. Mint cracked a few to get …",
-      "link": "https://www.livemint.com/companies/branded-eggs-antibiotic-free-eggoz-akshayakalpa-henfruit-farm-made-licious-amul-egg-startups-india-gaja-capital-11753779742400.html",
-      "source": "Livemint"
-    },
-    {
-      "title": "Singapore's GIC sees AI opportunity for India as \"raw ingredients\" are in place",
-      "summary": "Singapore GIC’s CIO Bryan Yeo calls AI “foundational” to its long-term strategy, with India emerging as a key focus. Backed by strong tech talent and rising digitization, GIC is investing across AI adopters and scaling Indian startups through its global Bridg…",
-      "link": "https://www.livemint.com/companies/singapore-gic-ai-opportunity-india-tech-talent-digitization-startups-investment-indiaai-mission-11753783144664.html",
-      "source": "Livemint"
-    }
-  ],
+  "Startups & Funding": [],
   "Banking & Finance": [
     {
-      "title": "RBI Dy Guv flags creative accounting, liberal interpretations of regulations by some bank, NBFC managements",
-      "summary": "rbi Deputy Governor warns of unethical practices in banking, emphasizes need for ethical growth strategies and effective resource management.",
-      "link": "https://www.thehindubusinessline.com/money-and-banking/rbi-dy-guv-flags-creative-accounting-liberal-interpretations-of-regulations-by-some-bank-nbfc-managements/article69869585.ece",
+      "title": "Shriram Finance expects 15% AUM growth in FY26: Executive \nVice-Chairman Revankar",
+      "summary": "NBFC expects 10-15 bp improvement in its gross stage 3 or bad loan ratio by FY26 end",
+      "link": "https://www.thehindubusinessline.com/money-and-banking/shriram-finance-expects-15-aum-growth-in-fy26-executive-vice-chairman-revankar/article69874289.ece",
       "source": "BusinessLine"
     },
     {
-      "title": "RBI’s message is clear: Corporate houses shouldn’t expect banking licences",
-      "summary": "RBI Governor Sanjay Malhotra has done well to reiterate the central bank’s long-held policy of keeping corporate houses out of banking. It is best to avoid conflicts of interest in this vital sector and the counter-argument isn’t persuasive.",
-      "link": "https://www.livemint.com/opinion/online-views/rbi-corporate-banking-ban-bank-licensing-policy-connected-lending-private-bank-ownership-sanjay-malhotra-sbi-qip-owner-11753723981140.html",
+      "title": "Revised norms for substantial interest, settlement of unclaimed amount under banking law to take effect from Aug 1",
+      "summary": "The Banking Laws (Amendment) Act, 2025 raises interest threshold to ₹2 crore and expand scope of funds to be transferred to IEPF, among others",
+      "link": "https://www.thehindubusinessline.com/economy/revised-norms-for-substantial-interest-settlement-of-unclaimed-amount-under-banking-law-to-take-effect-from-aug-1/article69872222.ece",
+      "source": "BusinessLine"
+    },
+    {
+      "title": "Tata Trusts to Tata Sons: Try everything to stay private, consider exit for SP Group",
+      "summary": "Finally, Tata Trusts makes its view clear on a potential listing of Tata Sons. Also, for the first time, Tata Trusts has expressed its willingness to let the SP Group exit Tata Sons. What's next for Tata Sons?",
+      "link": "https://www.livemint.com/companies/tata-trusts-tata-sons-shapoorji-pallonji-group-rbi-noel-tata-sir-dorabji-trust-sir-ratan-tata-trust-nbfc-11753885132174.html",
       "source": "Livemint"
     },
     {
-      "title": "Zepto raises ₹7.5 crore from Elcid Investments, doubles revenue",
-      "summary": "The NBFC had invested in Zepto late last year as well, and following the latest share purchase it will hold 0.039% stake in company",
-      "link": "https://www.thehindubusinessline.com/companies/zepto-raises-75-crore-from-elcid-investments-doubles-revenue/article69868693.ece",
-      "source": "BusinessLine"
-    },
-    {
-      "title": "RBI caps AIF investments by banks and non-banks at 10% of fund's corpus",
-      "summary": "The central bank also said the collective contribution of all such entities in any AIF should not cross 20% of the corpus.",
-      "link": "https://www.livemint.com/industry/banking/rbi-aif-investment-cap-alternative-investment-funds-india-banks-nbfc-investments-aif-evergreening-of-loans-rbi-11753795926350.html",
+      "title": "Best mutual funds: These 15 sectoral, thematic schemes gave over 30% annualised return in the past 5 years",
+      "summary": "Best mutual funds: Sectoral funds invest in a particular sector of the economy such as infra, banking, technology and pharmaceuticals whereas thematic funds select stocks of companies in industries which belong to a particular theme",
+      "link": "https://www.livemint.com/money/personal-finance/best-mutual-funds-these-15-sectoral-thematic-schemes-gave-over-30-per-cent-annualised-return-in-the-past-5-years-11753715262021.html",
       "source": "Livemint"
     },
     {
-      "title": "RBI eases lenders’ investment norms in AIF schemes",
-      "summary": "RBI relaxes norms on lenders' investments in AIF schemes, allowing up to 20% corpus investment, strengthening internal mechanisms required.",
-      "link": "https://www.thehindubusinessline.com/money-and-banking/rbi-eases-lenders-investment-norms-in-aif-schemes/article69870165.ece",
-      "source": "BusinessLine"
+      "title": "Turnaround Hopes Lift SocGen to 2011 Highs Ahead of 2Q Report",
+      "summary": "Societe Generale SA shares hit their highest intra-day levels since 2011, a day ahead of the publication of the French banking group’s second-quarter results as hopes about Chief Executive Officer Slawomir Krupa’s turnaround plan gained further traction.",
+      "link": "https://www.livemint.com/companies/company-results/turnaround-hopes-lift-socgen-to-2011-highs-ahead-of-2q-report-11753875734185.html",
+      "source": "Livemint"
     }
   ],
   "Technology Sector": [
     {
-      "title": "Indian IT firms need to revisit the way they upskill talent, say analysts",
-      "summary": "Indian IT companies upskill employees, but struggle with redeployment due to skills gap, especially for mid-level talent.",
-      "link": "https://www.thehindubusinessline.com/news/indian-it-firms-need-to-revisit-the-way-they-upskill-talent-say-analysts/article69869965.ece",
+      "title": "Devina Mehra: The Indian IT services model has finally begun to falter… or has it?",
+      "summary": "Mass layoffs by IT major TCS have caused a stir, with many speculating that the sector is in a doom spiral. But we mustn’t confuse layoffs with the health of the IT services business. These companies are adapting to an AI shift in a display of tech resilience.",
+      "link": "https://www.livemint.com/opinion/online-views/indian-it-sector-artificial-intelligence-automation-tcs-infosys-wipro-layoffs-engineering-graduates-r-d-investment-11753805674718.html",
+      "source": "Livemint"
+    },
+    {
+      "title": "Infosys Jobs: IT-major to hire 20,000 freshers this year. Here's what CEO Salil Parekh says",
+      "summary": "Infosys Jobs: India's second-largest IT firm, Infosys CEO, highlighted that the company will hire 20,000 freshers right out of college amid the layoff scares of the Indian IT industry.&nbsp;",
+      "link": "https://www.livemint.com/companies/news/infosys-jobs-it-major-to-hire-20-000-freshers-this-year-heres-what-ceo-salil-parekh-says-11753871971928.html",
+      "source": "Livemint"
+    },
+    {
+      "title": "Indian-origin Nikhil Ravishankar to lead Air New Zealand",
+      "summary": "Indian-origin Nikhil Ravishankar appointed CEO of Air New Zealand, bringing digital expertise and innovation to the airline industry.",
+      "link": "https://www.thehindubusinessline.com/news/indian-origin-nikhil-ravishankar-to-lead-air-new-zealand/article69874370.ece",
       "source": "BusinessLine"
-    },
-    {
-      "title": "How you can use these spending-linked deductions to save taxes",
-      "summary": "Tax-payers opting for old tax regime can claim deduction on education expenses such as tuition fees, preventive health check-up, etc. Certain spending attracts TCS, which can be claimed regardless of old or new tax regime.",
-      "link": "https://www.livemint.com/money/income-tax-deductions-india-old-tax-regime-deductions-tax-saving-tips-india-income-tax-benefits-11753765477341.html",
-      "source": "Livemint"
-    },
-    {
-      "title": "Mint Explainer | TCS layoffs, slowdowns, and AI disruption: Why IT jobs are vanishing",
-      "summary": "Legacy roles are fading, AI is rising, and hiring is stalling—India’s IT services industry is entering a turbulent new phase.",
-      "link": "https://www.livemint.com/industry/infotech/tcs-layoffs-ai-gccs-it-industry-slowdown-jobs-crisis-india-11753774323815.html",
-      "source": "Livemint"
-    },
-    {
-      "title": "Behind the layoffs at TCS that could affect 12,000 jobs",
-      "summary": "TCS will let go more people in the coming months, as it expects to complete this layoff exercise by the end of this year.",
-      "link": "https://www.livemint.com/companies/tcs-layoffs-12-000-jobs-tata-consultancy-services-it-services-11753714633667.html",
-      "source": "Livemint"
     },
     {
       "title": "P&G succession: Let’s applaud the Indian diaspora’s success but also look within",
       "summary": "Shailesh Jejurikar, an executive of Indian origin, is set to reach the top of P&amp;G. This is good news, not ‘brain drain’, but comes amid a trend of outmigration that provokes a few hard questions about India’s economic dynamism.",
       "link": "https://www.livemint.com/opinion/online-views/shailesh-jejurikar-indian-ceos-brain-drain-economic-growth-private-investment-procter-gamble-ai-impact-r-d-pa-11753797692270.html",
+      "source": "Livemint"
+    },
+    {
+      "title": "Power buzz: We can’t ignore what it costs to carry renewable energy",
+      "summary": "A buzz of debate hovers over India’s decision to end its waiver of transmission charges for wind and solar energy projects. But this policy had led to distortions of this sector and was proving financially untenable. Here’s a close look.",
+      "link": "https://www.livemint.com/opinion/online-views/renewable-energy-transmission-waiver-solar-policy-wind-projects-grid-expansion-electricity-tariffs-energy-storage-hvdc-11753796552938.html",
       "source": "Livemint"
     }
   ]
