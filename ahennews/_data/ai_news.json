@@ -1,16 +1,22 @@
 {
   "Indian Economy": [
     {
-      "title": "S&P upgrades India’s sovereign rating to BBB, says among ‘best performing economies in the world’",
-      "summary": "“India remains among the best performing economies in the world. It staged a remarkable comeback from the pandemic with real GDP growth over fiscal 2022 to fiscal 2024 averaging 8.8 per cent, the highest in Asia-Pacific,” said S&P Global Ratings.",
-      "link": "https://indianexpress.com/article/business/economy/sp-india-bbb-best-performing-economies-world-economy-business-10189052/",
-      "source": "The Indian Express"
-    },
-    {
       "title": "Today in Politics: What will PM Modi’s 12th Independence Day speech focus on?",
       "summary": "In the centrepiece annual event, the PM is expected to lay out his government’s agenda, present its report card, make important policy and programme announcements",
       "link": "https://indianexpress.com/article/political-pulse/today-in-politics-narendra-modi-12th-independence-day-speech-focus-10190345/",
       "source": "The Indian Express"
+    },
+    {
+      "title": "Express View on PM Modi’s Independence Day speech: Hope, not fear",
+      "summary": "PM’s call for reform and self-reliance struck the right note; the spectre of the ‘intruder’ one of disquiet",
+      "link": "https://indianexpress.com/article/opinion/editorials/express-view-on-pm-modis-independence-day-speech-hope-not-fear-10191904/",
+      "source": "The Indian Express"
+    },
+    {
+      "title": "India deserves an even higher rating",
+      "summary": "India’s sovereign rating of BBB after the upgrade is still just two notches above speculative grade. This does not reflect India’s strengths as a growing economy with sound institutions",
+      "link": "https://www.thehindubusinessline.com/opinion/editorial/india-deserves-an-even-higher-rating/article69937281.ece",
+      "source": "BusinessLine"
     },
     {
       "title": "Mint Quick Edit | India’s S&P upgrade: Better late than never",
@@ -19,131 +25,95 @@
       "source": "Livemint"
     },
     {
-      "title": "Indian economy is in the “pink of health”, assures President Murmu on eve of Independence Day",
-      "summary": "President Murmu highlights India's robust economy, national security, and self-reliance push in her Independence Day address.",
-      "link": "https://www.thehindubusinessline.com/news/indian-economy-is-in-the-pink-of-health-assures-president-murmu-on-eve-of-independence-day/article69933590.ece",
-      "source": "BusinessLine"
-    },
-    {
-      "title": "RBI may open room for further easing in upcoming policy if GDP prints come lower: Report",
-      "summary": "RBI may cut rates further if GDP disappoints and US Fed slashes rates, as per HSBC Mutual Fund report.",
-      "link": "https://www.thehindubusinessline.com/money-and-banking/rbi-may-open-room-for-further-easing-in-upcoming-policy-if-gdp-prints-come-lower-report/article69931887.ece",
-      "source": "BusinessLine"
+      "title": "Why the plastics treaty negotiations failed again",
+      "summary": "Negotiations in Geneva for a historic global treaty to end plastic pollution have ended in failure. Deep divisions over key provisions, including production cuts and legal compliance, highlight ongoing challenges and differing priorities among nations.",
+      "link": "https://indianexpress.com/article/explained/why-plastics-treaty-negotiations-failed-again-10191502/",
+      "source": "The Indian Express"
     }
   ],
   "Stock Market": [
     {
-      "title": "Benchmark indices end six-week slump as S&P upgrade boosts sentiment",
-      "summary": "Benchmark indices end six-week slump as S&P upgrades India to BBB; tech stocks rally, broader markets lag, rupee steady, gold sideways, markets await global cues.",
-      "link": "https://www.thehindubusinessline.com/markets/stock-markets/benchmark-indices-end-six-week-slump-as-sp-upgrade-boosts-sentiment/article69932693.ece",
-      "source": "BusinessLine"
-    },
-    {
-      "title": "Rupee trades in narrow range against US dollar in early trade",
-      "summary": "At the interbank foreign exchange market, the rupee opened at 87.48 against the US dollar, then touched 87.39, registering a gain of 8 paise over its previous close",
-      "link": "https://www.thehindubusinessline.com/markets/forex/rupee-trades-in-narrow-range-against-us-dollar-in-early-trade/article69931494.ece",
-      "source": "BusinessLine"
-    },
-    {
-      "title": "Nifty Prediction today – Aug 14, 2025: Index testing a barrier",
-      "summary": "Nifty 50 opens lower, Infosys and Wipro lead gains, Tata Steel and Hindalco Industries top losers. Trading analysis provided.",
-      "link": "https://www.thehindubusinessline.com/portfolio/technical-analysis/nifty-prediction-today-aug-14-2025-index-testing-a-barrier/article69931566.ece",
-      "source": "BusinessLine"
-    },
-    {
-      "title": "Nifty Bank Prediction today – Aug 14, 2025: Index charting a sideways trend",
-      "summary": "Nifty Bank index fluctuates, with public sector banks outperforming private peers, as futures trade within 55,000-55,850 range.",
-      "link": "https://www.thehindubusinessline.com/portfolio/technical-analysis/nifty-bank-prediction-today-aug-14-2025-index-charting-a-sideways-trend/article69931651.ece",
-      "source": "BusinessLine"
-    },
-    {
-      "title": "Day Trading Guide for August 14, 2025: Intraday supports, resistances for Nifty50 stocks",
-      "summary": "Day Trading Guide gives you the key intraday supports and resistances to watch out for on the Nifty Futures and other widely traded stocks such as Reliance Industries, Infosys, HDFC Bank, TCS, SBI",
-      "link": "https://www.thehindubusinessline.com/portfolio/day-trading-guide/day-trading-guide-for-august-14/article69928746.ece",
+      "title": "Gold, silver outshine equity markets amid global uncertainty",
+      "summary": "Strong central bank purchases, totaling 415 tonnes in H1 2025, and ongoing geopolitical tensions, including the Russia-Ukraine and Israel-Iran conflicts, have bolstered gold demand",
+      "link": "https://www.thehindubusinessline.com/markets/gold/gold-silver-outshine-equity-markets-amid-global-uncertainty/article69936988.ece",
       "source": "BusinessLine"
     }
   ],
   "Startups & Funding": [
     {
-      "title": "Refold AI raises $6.5 mn in a funding round led by Eniac Ventures, Tidal Ventures",
-      "summary": "The company plans to use the new capital to expand its engineering team, deepen product integrations, and support its growing enterprise customer base",
-      "link": "https://www.thehindubusinessline.com/info-tech/refold-ai-raises-65-mn-in-a-funding-round-led-by-eniac-ventures-tidal-ventures/article69931703.ece",
+      "title": "NRT in talks to raise ₹450-crore Series B round from Cornerstone Ventures, others",
+      "summary": "Founded in April 2017 by Sameer Joshi and Julius Amrit, NRT is currently raising a  ₹267-crore bridge round, with about  ₹140 crore already subscribed by existing investors.",
+      "link": "https://www.livemint.com/companies/start-ups/newspace-research-and-technologies-nrt-series-b-cornerstone-ventures-drones-operation-sindoor-11755229017501.html",
+      "source": "Livemint"
+    },
+    {
+      "title": "IIT-M incubated Mindgrove expects commercial launch of Secure IoT chips in six months",
+      "summary": "Founded in 2021, the company claims that Secure IoT is India’s first commercial-grade high-performance microcontroller System-on-Chip (SoC) taped out at 28nm",
+      "link": "https://www.thehindubusinessline.com/info-tech/iit-m-incubated-mindgrove-expects-commercial-launch-of-secure-iot-chips-in-six-months/article69937164.ece",
       "source": "BusinessLine"
-    },
-    {
-      "title": "Darwinbox raises $40 million from Canada's Teachers’ Venture Growth",
-      "summary": "The Hyderabad-based human capital management platform will channel the funds towards expanding its North American presence, a market it entered in 2022 and where its business has tripled annually since.",
-      "link": "https://www.livemint.com/companies/darwinbox-raises-40-million-canada-ontario-teachers-venture-growth-pension-plan-hr-11755163252059.html",
-      "source": "Livemint"
-    },
-    {
-      "title": "Atomberg in talks with investors to realign cap table as it preps for IPO next year",
-      "summary": "Atomberg is also in discussions with external investors to discover its valuation amid strong demand for the asset",
-      "link": "https://www.livemint.com/companies/atomberg-technologies-listing-atomberg-investors-temasek-holdings-atomberg-ipo-11755139315381.html",
-      "source": "Livemint"
     }
   ],
   "Banking & Finance": [
     {
-      "title": "Generative AI set to improve banking operations in India by 46%: RBI Report",
-      "summary": "RBI also stated that in India, where millions of people still do not have access to formal banking, AI can help assess the creditworthiness of potential borrowers using non-traditional data sources",
-      "link": "https://www.thehindubusinessline.com/money-and-banking/generative-ai-set-to-improve-banking-operations-in-india-by-46-rbi-report/article69931539.ece",
+      "title": "Independence Day 2025 Share Market Holiday: Are NSE and BSE open or closed today, August 15?",
+      "summary": "India Stock Market Holiday on August 15, 2025: Indian stock markets, including the NSE and BSE, will be observing a closure today, Friday, August 14, 2025, on the occasion of Independence Day in India.",
+      "link": "https://indianexpress.com/article/india/independence-day-2025-share-market-holiday-are-nse-bse-open-or-closed-10190372/",
+      "source": "The Indian Express"
+    },
+    {
+      "title": "Banks to balance AI vs privacy following RBI’s call for AI framework",
+      "summary": "Experts say data collection and continuous consent will be the biggest challenge for companies",
+      "link": "https://www.thehindubusinessline.com/money-and-banking/banks-to-balance-ai-vs-privacy-following-rbis-call-for-ai-framework/article69936187.ece",
       "source": "BusinessLine"
     },
     {
-      "title": "RBI may open room for further easing in upcoming policy if GDP prints come lower: Report",
-      "summary": "RBI may cut rates further if GDP disappoints and US Fed slashes rates, as per HSBC Mutual Fund report.",
-      "link": "https://www.thehindubusinessline.com/money-and-banking/rbi-may-open-room-for-further-easing-in-upcoming-policy-if-gdp-prints-come-lower-report/article69931887.ece",
+      "title": "Liquidity framework can be fine-tuned",
+      "summary": "Money matters. The RBI working group on liquidity management could consider slight changes in CRR compliance and VRRR norms",
+      "link": "https://www.thehindubusinessline.com/opinion/liquidity-framework-can-be-fine-tuned/article69933894.ece",
       "source": "BusinessLine"
     },
     {
-      "title": "Tata Sons shareholders approve Noel Tata’s appointment as director at annual general meeting",
-      "summary": "The Tata Group is on track to list Tata Capital Ltd by September. The proposed IPO is expected to raise around Rs 17,000 crore.",
-      "link": "https://indianexpress.com/article/business/companies/noel-tata-appointment-shareholders-sons-annual-general-meeting-10189545/",
+      "title": "Losing hope on statehood… This dual system built for failure’: In first I-Day speech, Omar takes on Centre",
+      "summary": "Talks about his govt decisions stuck with the Raj Bhavan, regrets Supreme Court remarks regarding Pahalgam attack being a factor in restoration of J&K statehood. “Just trust us once,” says the J&K CM",
+      "link": "https://indianexpress.com/article/political-pulse/omar-abdullah-jammu-and-kashmir-statehood-independence-day-speech-10191116/",
       "source": "The Indian Express"
     },
     {
-      "title": "Shilpa Shetty and her husband Raj Kundra booked for cheating Mumbai businessman of Rs 60.48 crore",
-      "summary": "The Juhu-based businessman has said Shilpa Shetty Kundra and her husband Raj Kundra asked for the loan in 2015.",
-      "link": "https://indianexpress.com/article/cities/mumbai/shilpa-shetty-raj-kundra-cheating-mumbai-businessman-10188120/",
-      "source": "The Indian Express"
-    },
-    {
-      "title": "S&P upgrades India’s sovereign rating to BBB, says among ‘best performing economies in the world’",
-      "summary": "“India remains among the best performing economies in the world. It staged a remarkable comeback from the pandemic with real GDP growth over fiscal 2022 to fiscal 2024 averaging 8.8 per cent, the highest in Asia-Pacific,” said S&P Global Ratings.",
-      "link": "https://indianexpress.com/article/business/economy/sp-india-bbb-best-performing-economies-world-economy-business-10189052/",
-      "source": "The Indian Express"
+      "title": "How Sovereign Gold Bonds turned into wealth multipliers for investors",
+      "summary": "Sovereign Gold Bond (SGB) series have generated over 100 per cent returns for investors. Nine matured series recently completed their eight-year tenure, delivering XIRR returns between 12.6 per cent and 19 per cent including interest payouts.",
+      "link": "https://www.thehindubusinessline.com/portfolio/personal-finance/how-sovereign-gold-bonds-turned-into-wealth-multipliers-for-investors/article69936734.ece",
+      "source": "BusinessLine"
     }
   ],
   "Technology Sector": [
     {
-      "title": "R Ashwin on Tim David: ‘I shouldn’t say this…told the decision makers of a few IPL teams to pick him’",
-      "summary": "Earlier in the year, David was also part of the Indian Premier League-winning side Royal Challengers Bengaluru",
-      "link": "https://indianexpress.com/article/sports/cricket/r-ashwin-on-tim-david-i-shouldnt-say-this-told-the-decision-makers-of-a-few-ipl-teams-to-pick-him-10188542/",
+      "title": "65 and counting: Why assessing toll of Kishtwar cloudburst is proving difficult",
+      "summary": "‘One of the witnesses said there were around 200 pilgrims near the langar when it was swept away’",
+      "link": "https://indianexpress.com/article/india/65-and-counting-why-assessing-toll-of-kishtwar-cloudburst-is-proving-difficult-10191167/",
       "source": "The Indian Express"
     },
     {
-      "title": "‘Jai Labubu’: Indian woman mistakes Labubu doll for Chinese God, offers prayers",
-      "summary": "In the viral video, the Indian woman can be seen performing rituals and offering prasad to the Labubu doll.",
-      "link": "https://indianexpress.com/article/trending/trending-in-india/indian-woman-worships-labubu-doll-viral-video-10188438/",
+      "title": "Independence Day 2025 Share Market Holiday: Are NSE and BSE open or closed today, August 15?",
+      "summary": "India Stock Market Holiday on August 15, 2025: Indian stock markets, including the NSE and BSE, will be observing a closure today, Friday, August 14, 2025, on the occasion of Independence Day in India.",
+      "link": "https://indianexpress.com/article/india/independence-day-2025-share-market-holiday-are-nse-bse-open-or-closed-10190372/",
       "source": "The Indian Express"
     },
     {
-      "title": "Indian Railways done well to incorporate Braille signage in coaches. But a lot more needs doing",
-      "summary": "Accessibility should not be a box-ticking exercise. The RPwD Act provides a strong legal mandate — what is needed now is serious implementation with empathy",
-      "link": "https://indianexpress.com/article/opinion/columns/disability-laws-in-india-diability-access-to-trains-transport-10189190/",
+      "title": "Actor, who worked with Amitabh Bachchan and Sridevi, was not at peace with fame and left the industry at the peak of his career",
+      "summary": "Mangal Dhillon was one of the most prominent television actors of his time, known for iconic serials like Buniyaad, Junoon, and Noorjahan. At the peak of his career, he was also among the highest-paid actors on Indian television.",
+      "link": "https://indianexpress.com/article/entertainment/bollywood/actor-mangal-dhillon-was-not-at-peace-with-fame-and-left-the-industry-at-the-peak-of-his-career-10190788/",
       "source": "The Indian Express"
     },
     {
-      "title": "S&P upgrades India’s sovereign rating to BBB, says among ‘best performing economies in the world’",
-      "summary": "“India remains among the best performing economies in the world. It staged a remarkable comeback from the pandemic with real GDP growth over fiscal 2022 to fiscal 2024 averaging 8.8 per cent, the highest in Asia-Pacific,” said S&P Global Ratings.",
-      "link": "https://indianexpress.com/article/business/economy/sp-india-bbb-best-performing-economies-world-economy-business-10189052/",
+      "title": "‘Tech for good ideas’ are fine, but it is impact at scale that matters: Anjali Bansal, founder, Avaana Capital",
+      "summary": "Anjali spoke to indianexpress.com about tech for good, the need for impact at scale, startups that are making an impact, and the big problems that need to be solved.",
+      "link": "https://indianexpress.com/article/technology/tech-news-technology/tech-for-good-impact-at-scale-anjali-bansal-avaana-capital-founder-10191330/",
       "source": "The Indian Express"
     },
     {
-      "title": "‘Regal’ Shubman Gill will be ‘right up there’ for a long time to come, says Ravi Shastri",
-      "summary": "Former India head coach Ravi Shastri, under whom Gill had made his international debut, has now said that the 25-year-old will be among the flagbearers for the next generation of great India batters.",
-      "link": "https://indianexpress.com/article/sports/cricket/shubman-gill-regal-long-time-to-come-ravi-shastri-10189580/",
+      "title": "Top 10 countries of origin of foreign-born billionaires in the US (2025): India surpasses Israel",
+      "summary": "Top 10 countries of origin for America’s foreign-born billionaires 2025 list: The number of Indian-born billionaires in America has jumped from 5 in 2022 to 12 in 2025.",
+      "link": "https://indianexpress.com/article/trending/top-10-listing/top-10-countries-of-origin-for-americas-foreign-born-billionaires-2025-10190644/",
       "source": "The Indian Express"
     }
   ]
