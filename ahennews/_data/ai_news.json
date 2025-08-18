@@ -1,119 +1,130 @@
 {
   "Indian Economy": [
     {
-      "title": "Today in Politics: What will PM Modi’s 12th Independence Day speech focus on?",
-      "summary": "In the centrepiece annual event, the PM is expected to lay out his government’s agenda, present its report card, make important policy and programme announcements",
-      "link": "https://indianexpress.com/article/political-pulse/today-in-politics-narendra-modi-12th-independence-day-speech-focus-10190345/",
-      "source": "The Indian Express"
-    },
-    {
       "title": "Express View on PM Modi’s Independence Day speech: Hope, not fear",
       "summary": "PM’s call for reform and self-reliance struck the right note; the spectre of the ‘intruder’ one of disquiet",
       "link": "https://indianexpress.com/article/opinion/editorials/express-view-on-pm-modis-independence-day-speech-hope-not-fear-10191904/",
       "source": "The Indian Express"
     },
     {
-      "title": "India deserves an even higher rating",
-      "summary": "India’s sovereign rating of BBB after the upgrade is still just two notches above speculative grade. This does not reflect India’s strengths as a growing economy with sound institutions",
-      "link": "https://www.thehindubusinessline.com/opinion/editorial/india-deserves-an-even-higher-rating/article69937281.ece",
-      "source": "BusinessLine"
-    },
-    {
-      "title": "Mint Quick Edit | India’s S&P upgrade: Better late than never",
-      "summary": "India’s sovereign credit rating has been raised by Standard &amp; Poor’s just as we face trade headwinds. The reasoning is sound, even if it’s a belated nod to the Centre’s public debt control.",
-      "link": "https://www.livemint.com/opinion/online-views/india-economy-standard-and-poor-s-rating-sovereign-creditworthiness-us-tariffs-domestic-consumption-growth-s-p-trump-11755181633587.html",
-      "source": "Livemint"
-    },
-    {
-      "title": "Why the plastics treaty negotiations failed again",
-      "summary": "Negotiations in Geneva for a historic global treaty to end plastic pollution have ended in failure. Deep divisions over key provisions, including production cuts and legal compliance, highlight ongoing challenges and differing priorities among nations.",
-      "link": "https://indianexpress.com/article/explained/why-plastics-treaty-negotiations-failed-again-10191502/",
-      "source": "The Indian Express"
-    }
-  ],
-  "Stock Market": [
-    {
-      "title": "Gold, silver outshine equity markets amid global uncertainty",
-      "summary": "Strong central bank purchases, totaling 415 tonnes in H1 2025, and ongoing geopolitical tensions, including the Russia-Ukraine and Israel-Iran conflicts, have bolstered gold demand",
-      "link": "https://www.thehindubusinessline.com/markets/gold/gold-silver-outshine-equity-markets-amid-global-uncertainty/article69936988.ece",
-      "source": "BusinessLine"
-    }
-  ],
-  "Startups & Funding": [
-    {
-      "title": "NRT in talks to raise ₹450-crore Series B round from Cornerstone Ventures, others",
-      "summary": "Founded in April 2017 by Sameer Joshi and Julius Amrit, NRT is currently raising a  ₹267-crore bridge round, with about  ₹140 crore already subscribed by existing investors.",
-      "link": "https://www.livemint.com/companies/start-ups/newspace-research-and-technologies-nrt-series-b-cornerstone-ventures-drones-operation-sindoor-11755229017501.html",
-      "source": "Livemint"
-    },
-    {
-      "title": "IIT-M incubated Mindgrove expects commercial launch of Secure IoT chips in six months",
-      "summary": "Founded in 2021, the company claims that Secure IoT is India’s first commercial-grade high-performance microcontroller System-on-Chip (SoC) taped out at 28nm",
-      "link": "https://www.thehindubusinessline.com/info-tech/iit-m-incubated-mindgrove-expects-commercial-launch-of-secure-iot-chips-in-six-months/article69937164.ece",
-      "source": "BusinessLine"
-    }
-  ],
-  "Banking & Finance": [
-    {
-      "title": "Independence Day 2025 Share Market Holiday: Are NSE and BSE open or closed today, August 15?",
-      "summary": "India Stock Market Holiday on August 15, 2025: Indian stock markets, including the NSE and BSE, will be observing a closure today, Friday, August 14, 2025, on the occasion of Independence Day in India.",
-      "link": "https://indianexpress.com/article/india/independence-day-2025-share-market-holiday-are-nse-bse-open-or-closed-10190372/",
+      "title": "On day of meeting Putin, Trump repeatedly claims he resolved India-Pakistan conflict",
+      "summary": "New Delhi has been maintaining that India and Pakistan halted their military actions following direct talks between their militaries without any mediation by the US.",
+      "link": "https://indianexpress.com/article/world/trump-asserts-he-resolved-india-pakistan-dispute-putin-meeting-10192415/",
       "source": "The Indian Express"
     },
     {
-      "title": "Banks to balance AI vs privacy following RBI’s call for AI framework",
-      "summary": "Experts say data collection and continuous consent will be the biggest challenge for companies",
-      "link": "https://www.thehindubusinessline.com/money-and-banking/banks-to-balance-ai-vs-privacy-following-rbis-call-for-ai-framework/article69936187.ece",
+      "title": "Strong monsoon, rising wages, and govt spending fuel rural economy recovery: Report",
+      "summary": "The report added that these positive developments are expected to lift rural demand, improve agricultural productivity, and provide momentum to overall economic growth in the coming quarters",
+      "link": "https://www.thehindubusinessline.com/economy/strong-monsoon-rising-wages-and-govt-spending-fuel-rural-economy-recovery-report/article69939650.ece",
       "source": "BusinessLine"
     },
     {
-      "title": "Liquidity framework can be fine-tuned",
-      "summary": "Money matters. The RBI working group on liquidity management could consider slight changes in CRR compliance and VRRR norms",
-      "link": "https://www.thehindubusinessline.com/opinion/liquidity-framework-can-be-fine-tuned/article69933894.ece",
+      "title": "'Next Gen GST' precursor to eventual single tax slab GST: Centre",
+      "summary": "They said the proposed new GST regime, which slashes tax rates and assigns just two slabs of 5% and 18%, will boost the economy and also serve to mitigate tariff threats",
+      "link": "https://www.thehindubusinessline.com/economy/next-gen-gst-precursor-to-eventual-single-tax-slab-gst-centre/article69941558.ece",
       "source": "BusinessLine"
-    },
-    {
-      "title": "Losing hope on statehood… This dual system built for failure’: In first I-Day speech, Omar takes on Centre",
-      "summary": "Talks about his govt decisions stuck with the Raj Bhavan, regrets Supreme Court remarks regarding Pahalgam attack being a factor in restoration of J&K statehood. “Just trust us once,” says the J&K CM",
-      "link": "https://indianexpress.com/article/political-pulse/omar-abdullah-jammu-and-kashmir-statehood-independence-day-speech-10191116/",
-      "source": "The Indian Express"
-    },
-    {
-      "title": "How Sovereign Gold Bonds turned into wealth multipliers for investors",
-      "summary": "Sovereign Gold Bond (SGB) series have generated over 100 per cent returns for investors. Nine matured series recently completed their eight-year tenure, delivering XIRR returns between 12.6 per cent and 19 per cent including interest payouts.",
-      "link": "https://www.thehindubusinessline.com/portfolio/personal-finance/how-sovereign-gold-bonds-turned-into-wealth-multipliers-for-investors/article69936734.ece",
-      "source": "BusinessLine"
-    }
-  ],
-  "Technology Sector": [
-    {
-      "title": "65 and counting: Why assessing toll of Kishtwar cloudburst is proving difficult",
-      "summary": "‘One of the witnesses said there were around 200 pilgrims near the langar when it was swept away’",
-      "link": "https://indianexpress.com/article/india/65-and-counting-why-assessing-toll-of-kishtwar-cloudburst-is-proving-difficult-10191167/",
-      "source": "The Indian Express"
-    },
-    {
-      "title": "Independence Day 2025 Share Market Holiday: Are NSE and BSE open or closed today, August 15?",
-      "summary": "India Stock Market Holiday on August 15, 2025: Indian stock markets, including the NSE and BSE, will be observing a closure today, Friday, August 14, 2025, on the occasion of Independence Day in India.",
-      "link": "https://indianexpress.com/article/india/independence-day-2025-share-market-holiday-are-nse-bse-open-or-closed-10190372/",
-      "source": "The Indian Express"
-    },
-    {
-      "title": "Actor, who worked with Amitabh Bachchan and Sridevi, was not at peace with fame and left the industry at the peak of his career",
-      "summary": "Mangal Dhillon was one of the most prominent television actors of his time, known for iconic serials like Buniyaad, Junoon, and Noorjahan. At the peak of his career, he was also among the highest-paid actors on Indian television.",
-      "link": "https://indianexpress.com/article/entertainment/bollywood/actor-mangal-dhillon-was-not-at-peace-with-fame-and-left-the-industry-at-the-peak-of-his-career-10190788/",
-      "source": "The Indian Express"
     },
     {
       "title": "‘Tech for good ideas’ are fine, but it is impact at scale that matters: Anjali Bansal, founder, Avaana Capital",
       "summary": "Anjali spoke to indianexpress.com about tech for good, the need for impact at scale, startups that are making an impact, and the big problems that need to be solved.",
       "link": "https://indianexpress.com/article/technology/tech-news-technology/tech-for-good-impact-at-scale-anjali-bansal-avaana-capital-founder-10191330/",
       "source": "The Indian Express"
+    }
+  ],
+  "Stock Market": [
+    {
+      "title": "Index Outlook: Nifty 50, Sensex, Nifty Bank snap 6-week losing streak; await trend reversal",
+      "summary": "Benchmark indices recover slightly, but key resistances must be breached for trend reversal confirmation. Watch movement closely.",
+      "link": "https://www.thehindubusinessline.com/portfolio/technical-analysis/index-outlook-awaits-confirmation/article69937162.ece",
+      "source": "BusinessLine"
     },
     {
-      "title": "Top 10 countries of origin of foreign-born billionaires in the US (2025): India surpasses Israel",
-      "summary": "Top 10 countries of origin for America’s foreign-born billionaires 2025 list: The number of Indian-born billionaires in America has jumped from 5 in 2022 to 12 in 2025.",
-      "link": "https://indianexpress.com/article/trending/top-10-listing/top-10-countries-of-origin-for-americas-foreign-born-billionaires-2025-10190644/",
+      "title": "F&O Tracker: Bears stay in play",
+      "summary": "Analysis of Nifty 50 and Nifty Bank futures data, with strategies for traders to retain short positions on both indices.",
+      "link": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/fo-tracker-bears-stay-in-play/article69937384.ece",
+      "source": "BusinessLine"
+    },
+    {
+      "title": "Nifty and Bank Nifty Prediction for the week 18 Aug’25 to 22 Aug’25 by BL GURU",
+      "summary": "Nifty and Bank Nifty bounced back after six weeks of declines. Key support and resistance levels indicate possible reversals. Here’s the technical outlook for the coming week.",
+      "link": "https://www.thehindubusinessline.com/multimedia/video/nifty-banknifty-weekly-outlook-key-levels/article69940164.ece",
+      "source": "BusinessLine"
+    },
+    {
+      "title": "Low FII holdings mask selective sector buys",
+      "summary": "Foreign institutional investors in Nifty-500 companies shift focus to specific sectors with growth potential, despite overall decline in ownership.",
+      "link": "https://www.thehindubusinessline.com/portfolio/low-fii-holdings-mask-selective-sector-buys/article69941477.ece",
+      "source": "BusinessLine"
+    },
+    {
+      "title": "Nifty may swing between -11% to +4% around 25,000 amid macro uncertainty: Report",
+      "summary": "BofA Securities expects Nifty earnings growth to remain subdued, projecting 7% growth in FY26 and 11% in FY27, well below the Street's expectations of 9% and 15%, respectively",
+      "link": "https://www.thehindubusinessline.com/markets/nifty-may-swing-between-11-to-4-around-25000-amid-macro-uncertainty-report/article69939765.ece",
+      "source": "BusinessLine"
+    }
+  ],
+  "Startups & Funding": [],
+  "Banking & Finance": [
+    {
+      "title": "Low FII holdings mask selective sector buys",
+      "summary": "Foreign institutional investors in Nifty-500 companies shift focus to specific sectors with growth potential, despite overall decline in ownership.",
+      "link": "https://www.thehindubusinessline.com/portfolio/low-fii-holdings-mask-selective-sector-buys/article69941477.ece",
+      "source": "BusinessLine"
+    },
+    {
+      "title": "Think. Over the week",
+      "summary": "In our Editorial section last week, the most important topic analysed was S&P’s upgrade of India’s sovereign ratings to ‘BBB’ after 18 years. Though the Editorial welcomes the decision, calling it long overdue, it argues that given India’s fiscal rectitude an…",
+      "link": "https://www.thehindubusinessline.com/newsletter/nl-opinion/think-over-the-week/article69939816.ece",
+      "source": "BusinessLine"
+    },
+    {
+      "title": "Rethink India’s ‘crypto’ strategy",
+      "summary": "Well-designed rupee-backed stablecoins could strengthen the rupee’s role in digital payments",
+      "link": "https://www.thehindubusinessline.com/opinion/rethink-indias-crypto-strategy/article69937965.ece",
+      "source": "BusinessLine"
+    },
+    {
+      "title": "CreditAccess Grameen, Spandana Sphoorty, Fusion Finance, Satin Creditcare, Ujjivan SFB et al: Are microfinance lenders out of the woods yet?",
+      "summary": "Microfinance lenders faced losses in FY24-25 due to over-leveraged borrowers, but signs of recovery are emerging in FY26.",
+      "link": "https://www.thehindubusinessline.com/portfolio/big-story/creditaccess-grameen-spandana-sphoorty-fusion-finance-satin-creditcare-ujjivan-sfb-et-al-are-microfinance-lenders-out-of-the-woods-yet/article69937429.ece",
+      "source": "BusinessLine"
+    },
+    {
+      "title": "Saving for your child’s future",
+      "summary": "HDFC Children’s Fund excels in equity management, delivering consistent growth for children’s future milestones with lower expense ratios.",
+      "link": "https://www.thehindubusinessline.com/portfolio/mutual-funds/saving-for-your-childs-future/article69932039.ece",
+      "source": "BusinessLine"
+    }
+  ],
+  "Technology Sector": [
+    {
+      "title": "Indian Railways ticket cancellation charges you must know before train booking on IRCTC",
+      "summary": "Indian Railways Ticket Cancellation Online: Every passenger should be aware of Indian Railways rules for cancelling e-tickets booked through the IRCTC app or portal.",
+      "link": "https://indianexpress.com/article/india/indian-railways-ticket-cancellation-charges-train-booking-irctc-10193119/",
+      "source": "The Indian Express"
+    },
+    {
+      "title": "‘No one is Indispensable’: Manjrekar targets Bumrah, blasts India & England’s ‘weak’ bowling attacks in Anderson-Tendulkar Trophy",
+      "summary": "Manjrekar felt that India should have won the series 3-1 and reflected on \"how bad England\" were in their home series. He also said no player in a sport is indispensable while referring to star Indian pacer Jasprit Bumrah.",
+      "link": "https://indianexpress.com/article/sports/cricket/no-one-is-indispensable-manjrekar-on-bumrah-india-vs-england-10193274/",
+      "source": "The Indian Express"
+    },
+    {
+      "title": "No dedicated shelters, only one ABC centre but Faridabad civic body confident of managing stray dog population",
+      "summary": "The District Chief Medical Officer Dr Jayant Ahuja told The Indian Express that there were 14,122 dog bite cases in the district last year, while this year till date, the district has seen 9,008 cases.",
+      "link": "https://indianexpress.com/article/cities/delhi/no-shelters-only-one-abc-centre-faridabad-civic-body-stray-dog-population-10193485/",
+      "source": "The Indian Express"
+    },
+    {
+      "title": "‘We created amazing bonds on and off the field’: Washington Sundar on India’s team bond in hard-fought England series",
+      "summary": "India, after losing the first Test at Headingley, made a quick comeback and won the Edgbaston Test. India were then condemned to a gut-wrenching 22-run loss at Lord's before a spirited side drew the Manchester Test and won the last and final Test at The Oval.",
+      "link": "https://indianexpress.com/article/sports/cricket/washington-sundar-on-india-amazing-team-bond-england-series-10193464/",
+      "source": "The Indian Express"
+    },
+    {
+      "title": "‘Tech for good ideas’ are fine, but it is impact at scale that matters: Anjali Bansal, founder, Avaana Capital",
+      "summary": "Anjali spoke to indianexpress.com about tech for good, the need for impact at scale, startups that are making an impact, and the big problems that need to be solved.",
+      "link": "https://indianexpress.com/article/technology/tech-news-technology/tech-for-good-impact-at-scale-anjali-bansal-avaana-capital-founder-10191330/",
       "source": "The Indian Express"
     }
   ]
