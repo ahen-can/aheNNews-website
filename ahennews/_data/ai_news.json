@@ -1,49 +1,37 @@
 {
   "Indian Economy": [
     {
-      "title": "RBI Balance of payments data: Central bank planning monthly release, says Deputy Governor Poonam Gupta",
-      "summary": "To facilitate the timely and more frequent availability of the country’s BoP statistics, the RBI has already brought down the time lag in the release of the quarterly BoP statistics from 90 days to around 60 days, starting Q1FY26.",
-      "link": "https://indianexpress.com/article/business/rbi-balance-of-payments-data-central-bank-planning-monthly-release-says-deputy-governor-poonam-gupta-10388055/",
-      "source": "The Indian Express"
-    },
-    {
-      "title": "Can GDP ‘nowcasts’ help a data-strapped RBI formulate monetary policy? It’s worth a try",
-      "summary": "India’s GDP figures arrive with long lags and frequent revisions, while monetary policy needs to be forward-looking. Could ‘nowcasting’ based on a wide range of early indicators offer a solution? A closer look reveals promise, complexity and a crucial caveat.",
-      "link": "https://www.livemint.com/opinion/online-views/gdp-nowcasts-data-rbi-monetary-policy-reserve-bank-of-india-economic-indicators-11764076034711.html",
-      "source": "Livemint"
-    },
-    {
-      "title": "Faulty climate targets: Net-zero pledges won’t halt global warming but breakthrough innovations might",
-      "summary": "The UN's COP30 ended with grand rhetoric but no meaningful climate gains, exposing a deep rift between rich-world ambitions and the development priorities of emerging economies. As today’s net-zero efforts seem unable to bend the emission curve, the world sho…",
-      "link": "https://www.livemint.com/opinion/online-views/climate-change-targets-net-zero-pledges-global-warming-innovations-cop30-western-countries-developing-india-11764070984526.html",
-      "source": "Livemint"
-    },
-    {
-      "title": "Taiwan announces special budget of $40 billion for arms purchases to bolster defence",
-      "summary": "The budget will be allocated over eight years, from 2026 to 2033, and comes after Lai already pledged to raise defense spending to 5% of the island's GDP, as part of an ongoing strategy amid China's threats of invasion.",
-      "link": "https://indianexpress.com/article/world/taiwan-special-budget-40-billion-arms-purchases-to-bolster-defence-10386778/",
-      "source": "The Indian Express"
-    },
-    {
-      "title": "Exercise caution over rate cut",
-      "summary": "A status quo in monetary policy is needed, as independent of base effect, there’s a q-o-q price build-up",
-      "link": "https://www.thehindubusinessline.com/opinion/exercise-caution-over-rate-cut/article70323071.ece",
+      "title": "Economy likely to have grown between 7-7.5% during Q2 of FY26, suggest reports",
+      "summary": "Economic growth in Q2 FY26 is projected between 7-7.5%, indicating stability amid various domestic and global challenges.",
+      "link": "https://www.thehindubusinessline.com/economy/economic-likely-to-have-grown-between-7-75-during-q2-of-fy26-suggest-reports/article70329756.ece",
       "source": "BusinessLine"
+    },
+    {
+      "title": "Monthly economic review: GST rate cuts boosts consumption; economy to maintain growth momentum",
+      "summary": "The GST rate rationalisation gave a \"measurable\" boost to consumption, and the Indian economy is on a stable footing to navigate risks and maintain growth momentum through the current fiscal, a finance ministry report said on Thursday.",
+      "link": "https://www.thehindubusinessline.com/economy/monthly-economic-review-gst-rate-cuts-boosts-consumption-economy-to-maintain-growth-momentum/article70329564.ece",
+      "source": "BusinessLine"
+    },
+    {
+      "title": "India's eco growth to remain robust; GST reform to help cushion adverse impact of US tariffs: IMF",
+      "summary": "The financial and corporate sectors have remained resilient, supported by adequate capital buffers and multi-year low non-performing assets, notes IMF",
+      "link": "https://www.thehindubusinessline.com/economy/indias-eco-growth-to-remain-robust-gst-reform-to-help-cushion-adverse-impact-of-us-tariffs-imf/article70328777.ece",
+      "source": "BusinessLine"
+    },
+    {
+      "title": "Despite tariffs, India's Q2 FY26 GDP growth likely at 7.5%, higher than last year: Union Bank Report",
+      "summary": "India's Q2 FY26 GDP growth is projected at 7.5%, significantly higher than last year's 5.6%, according to Union Bank.",
+      "link": "https://www.thehindubusinessline.com/economy/despite-tariffs-indias-q2-fy26-gdp-growth-likely-at-75-higher-than-last-year-union-bank-report/article70328817.ece",
+      "source": "BusinessLine"
+    },
+    {
+      "title": "India’s merchandise exports aren’t too exposed to the US—we need to watch out for services",
+      "summary": "In the face of Trump’s ever-shifting policies, India’s real vulnerability isn’t merchandise shipments, but service exports. We need to double down on diversifying these even as we pursue a trade deal with Washington.",
+      "link": "https://www.livemint.com/opinion/online-views/india-services-exports-merchandise-exposed-us-america-washington-shipments-trade-cargo-11764156352288.html",
+      "source": "Livemint"
     }
   ],
   "Stock Market": [
-    {
-      "title": "Sensex’s 1000-point rally: How it happened and why it’s all set for a bull run",
-      "summary": "Stock markets rallied 1.2 percent Wednesday, and are all set to hit record high in the coming days. Here’s what has changed in the last few days.",
-      "link": "https://indianexpress.com/article/explained/everyday-explainers/sensexs-1000-point-rally-how-it-happened-and-why-its-all-set-for-a-bull-run-10387453/",
-      "source": "The Indian Express"
-    },
-    {
-      "title": "Nifty storms past 26,000 as bulls return in force; Sensex leaps 1,022 pts to 85,609",
-      "summary": "Nifty surges past 26,000, with broad-based gains as Sensex jumps 1,022 points, signaling strong market recovery and optimism.",
-      "link": "https://www.thehindubusinessline.com/markets/nifty-storms-past-26000-as-bulls-return-in-force-sensex-leaps-1022-pts-to-85609/article70325679.ece",
-      "source": "BusinessLine"
-    },
     {
       "title": "Stock Market Live Updates 27th November 2025: Stock to buy today: Natco Pharma (₹926.90) – BUY",
       "summary": "Stock Market Today | Share Market Highlights - Find here all the latest updates related to Sensex, Nifty, BSE, NSE, share prices and Indian stock markets for 27th Nov 2025",
@@ -51,25 +39,31 @@
       "source": "BusinessLine"
     },
     {
-      "title": "Markets surge over 1% in afternoon trade on global optimism, Fed rate cut hopes",
-      "summary": "Market breadth remains firmly positive with 2,728 stocks advancing against 1,229 declines on the BSE, where 4,144 stocks were traded",
-      "link": "https://www.thehindubusinessline.com/markets/markets-surge-over-1-in-afternoon-trade-on-global-optimism-fed-rate-cut-hopes/article70325074.ece",
+      "title": "Sensex, Nifty hit fresh peaks after 14 months on financial sector rally",
+      "summary": "Benchmark indices scaled fresh all-time highs on Thursday, with the Sensex breaching the 86,000-mark and Nifty crossing 26,300 in intraday trade, marking a significant milestone after a 14-month consolidation period, though both indices pared gains by the clo…",
+      "link": "https://www.thehindubusinessline.com/markets/stock-markets/sensex-nifty-hit-fresh-peaks-after-14-months-on-financial-sector-rally/article70330076.ece",
       "source": "BusinessLine"
     },
     {
-      "title": "Sensex, Nifty jump 1% on global optimism, banks and metals lead broad market rally",
-      "summary": "JSW Steel, Adani Ports, Bajaj twin shares lead gainers of Nifty 50, Bharti Airtel declines. Reliance, MCX, Axis Bank and SBI hit 52-week highs.",
-      "link": "https://www.thehindubusinessline.com/markets/stock-markets/sensex-nifty-jump-1-jsw-steel-adani-ports-bajaj-twin-shares-lead-gainers-of-nifty-50-bharti-airtel-declines-reliance-mcx-axis-bank-and-sbi-hit-52-week-highs/article70324933.ece",
+      "title": "Nifty hovers near record high as banking stocks power rally",
+      "summary": "Nifty nears record high, driven by banking stocks, while midcap and smallcap indices decline amid balanced market breadth.",
+      "link": "https://www.thehindubusinessline.com/markets/stock-markets/nifty-hovers-near-record-high-as-banking-stocks-power-rally/article70329356.ece",
+      "source": "BusinessLine"
+    },
+    {
+      "title": "Nifty 50 could touch 30,000 by 2026: JP Morgan",
+      "summary": "Upgrade reflects sustained domestic strength, improving policy support and expectations of solid corporate earnings, the brokerage said",
+      "link": "https://www.thehindubusinessline.com/markets/stock-markets/nifty-50-could-touch-30000-by-2026-jp-morgan/article70329310.ece",
+      "source": "BusinessLine"
+    },
+    {
+      "title": "Sensex, Nifty Live updates: Bulls lift Nifty to all-time high",
+      "summary": "Sensex, Nifty Today, Stock Market Live Updates: Check the latest Sensex, Nifty updates here on businessline.",
+      "link": "https://www.thehindubusinessline.com/markets/sensex-nifty-today-stock-market-live-updates-november-27/article70328802.ece",
       "source": "BusinessLine"
     }
   ],
   "Startups & Funding": [
-    {
-      "title": "Nilekani’s Fundamentum preps these four portfolio startups for IPOs",
-      "summary": "The move comes as venture capital funds prepare portfolio exits amid plans to raise their next rounds of capital. Venture capital firms have seen the exit path open up as the Indian IPO markets staged a revival over the past couple of years.",
-      "link": "https://www.livemint.com/companies/nandan-nilekani-led-fundamentum-preps-spinny-pharmeasy-kuku-fm-fareye-for-potential-ipos-11764147931477.html",
-      "source": "Livemint"
-    },
     {
       "title": "First-gen founder millionaires take bigger investment risks, unlike traditional family offices: Motilal Oswal's Shanker",
       "summary": "In an exclusive conversation with Mint, Ashish Shanker, MD &amp; CEO of Motilal Oswal Private Wealth, explains how first-generation founder millionaires invest differently from legacy HNIs and why private markets remain their comfort zone.",
@@ -81,69 +75,81 @@
       "summary": "India's cross-border payments are transforming as RBI's PA-CB license allows fintechs like BriskPe and Xflow to streamline transactions. This shift could enable fintechs to capture 15-20% of the $1.6 trillion market, enhancing efficiency for small businesses …",
       "link": "https://www.livemint.com/companies/india-cross-border-payments-fintech-rbi-pa-cb-licence-reform-11764143323030.html",
       "source": "Livemint"
+    },
+    {
+      "title": "“My Priority is to Deepen the Trust and Chemistry on Both Sides”: India’s New UAE Ambassador Sets Clear Agenda at IGF Middle East 2025",
+      "summary": "“My Priority is to Deepen the Trust and Chemistry on Both Sides”: India’s New UAE Ambassador Sets Clear Agenda at IGF Middle East 2025",
+      "link": "https://www.thehindubusinessline.com/brandhub/my-priority-is-to-deepen-the-trust-and-chemistry-on-both-sides-indias-new-uae-ambassador-sets-clear-agenda-at-igf-middle-east-2025/article70329855.ece",
+      "source": "BusinessLine"
+    },
+    {
+      "title": "Dreams on hold: Inside the struggles of entrepreneurs held hostage by Canada’s start-up visa programme",
+      "summary": "Many Indian entrepreneurs moved to Canada drawn by its Start-up Visa programme. But with over 43,000 applicants facing a 10-year wait, their hopes have been dashed. The legal uncertainty is making some founders abandon their Canadian dreams despite building b…",
+      "link": "https://www.livemint.com/industry/canada-suv-visa-crisis-backlog-11764235004453.html",
+      "source": "Livemint"
     }
   ],
   "Banking & Finance": [
     {
-      "title": "RBI Balance of payments data: Central bank planning monthly release, says Deputy Governor Poonam Gupta",
-      "summary": "To facilitate the timely and more frequent availability of the country’s BoP statistics, the RBI has already brought down the time lag in the release of the quarterly BoP statistics from 90 days to around 60 days, starting Q1FY26.",
-      "link": "https://indianexpress.com/article/business/rbi-balance-of-payments-data-central-bank-planning-monthly-release-says-deputy-governor-poonam-gupta-10388055/",
-      "source": "The Indian Express"
-    },
-    {
-      "title": "Sensex’s 1000-point rally: How it happened and why it’s all set for a bull run",
-      "summary": "Stock markets rallied 1.2 percent Wednesday, and are all set to hit record high in the coming days. Here’s what has changed in the last few days.",
-      "link": "https://indianexpress.com/article/explained/everyday-explainers/sensexs-1000-point-rally-how-it-happened-and-why-its-all-set-for-a-bull-run-10387453/",
-      "source": "The Indian Express"
-    },
-    {
-      "title": "Can GDP ‘nowcasts’ help a data-strapped RBI formulate monetary policy? It’s worth a try",
-      "summary": "India’s GDP figures arrive with long lags and frequent revisions, while monetary policy needs to be forward-looking. Could ‘nowcasting’ based on a wide range of early indicators offer a solution? A closer look reveals promise, complexity and a crucial caveat.",
-      "link": "https://www.livemint.com/opinion/online-views/gdp-nowcasts-data-rbi-monetary-policy-reserve-bank-of-india-economic-indicators-11764076034711.html",
-      "source": "Livemint"
-    },
-    {
-      "title": "G-Sec yields, and forces at work",
-      "summary": "RBI intervention seems to have controlled the rise, but macro forces point to a softening trend",
-      "link": "https://www.thehindubusinessline.com/opinion/g-sec-yields-and-forces-at-work/article70326978.ece",
+      "title": "NPCI arm targets 1 billion monthly transactions over 3-4 years",
+      "summary": "NPCI Bharat BillPay aims for 1 billion monthly transactions in 3-4 years, enhancing online banking experience and security.",
+      "link": "https://www.thehindubusinessline.com/money-and-banking/npci-arm-targets-1-billion-monthly-transactions-over-3-4-years/article70331322.ece",
       "source": "BusinessLine"
     },
     {
-      "title": "‘Stablecoins emerge as key players in global payment systems’",
-      "summary": "Stablecoins, backed by fiat currency or other assets such as gold, are increasingly finding use as everyday money and becoming a part of the global payment infrastructure. Recently, Finance Minister Nirmala Sitharaman admitted that stablecoins are reshaping t…",
-      "link": "https://www.thehindubusinessline.com/money-and-banking/cryptocurrency/stablecoins-emerge-as-key-players-in-global-payment-systems/article70325482.ece",
+      "title": "Paytm arm PPSL gets RBI nod to operate as payment aggregator",
+      "summary": "The Reserve Bank of India has granted a Certificate of Authorization to Paytm Payments Services Limited to operate as a Payment Aggregator under the Payment and Settlement Systems Act, 2007",
+      "link": "https://www.thehindubusinessline.com/money-and-banking/paytm-arm-ppsl-gets-rbi-nod-to-operate-as-payment-aggregator/article70329341.ece",
+      "source": "BusinessLine"
+    },
+    {
+      "title": "Indian banking industry poised for a stronger performance in the second half of FY26: CareEdge Ratings",
+      "summary": "CareEdge Ratings projects robust growth for the Indian banking sector in FY26, driven by improved credit quality and macroeconomic conditions.",
+      "link": "https://www.thehindubusinessline.com/money-and-banking/indian-banking-industry-poised-for-a-stronger-performance-in-the-second-half-of-fy26-careedge-ratings/article70331412.ece",
+      "source": "BusinessLine"
+    },
+    {
+      "title": "RBI to exporters’ rescue",
+      "summary": "The measures are vital to counter global headwinds",
+      "link": "https://www.thehindubusinessline.com/opinion/rbi-to-exporters-rescue/article70331833.ece",
+      "source": "BusinessLine"
+    },
+    {
+      "title": "Editorial. Rupee outlook",
+      "summary": "RBI deploys right tools to control currency volatility",
+      "link": "https://www.thehindubusinessline.com/opinion/editorial/rupee-outlook/article70330756.ece",
       "source": "BusinessLine"
     }
   ],
   "Technology Sector": [
     {
-      "title": "‘Narayana Murthy, take note’: Indian marine techie in Norway shows how ‘flexible’ 7.5-hour workdays boost happiness",
-      "summary": "An Indian professional working as a ship officer in maritime tech in Norway recently shared a glimpse into what corporate life in Norway truly feels like.",
-      "link": "https://indianexpress.com/article/trending/trending-in-india/indian-techie-explains-norway-work-culture-core-hours-flexible-hours-narayana-murthy-take-note-10387463/",
+      "title": "Top 10 IT companies in India in 2025: Narayana Murthy’s firm ranks in the top 5 with over Rs 6 lakh crore market cap",
+      "summary": "Top 10 IT companies in India in 2025 by market capitalisation: Tata Consultancy Services (TCS) stands at the top as the biggest IT company in India in terms of market capitalisation.",
+      "link": "https://indianexpress.com/article/trending/top-10-listing/top-10-it-companies-in-india-in-2025-10388911/",
       "source": "The Indian Express"
     },
     {
-      "title": "40 years ago November 26, 1985: Delay in assent to bills",
-      "summary": "This is the front page of The Indian Express published on November 26, 1985.",
-      "link": "https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-november-26-1985-delay-in-assent-to-bills-10386040/",
+      "title": "‘Workload, threat from officials, server issues, anonymous calls at night’: BLOs stage protest at Ahmedabad centre",
+      "summary": "Official say issues addressed, ‘server working fine now’; teachers’ association say authorities agreed to find solutions",
+      "link": "https://indianexpress.com/article/cities/ahmedabad/workload-threat-from-officials-server-issues-anonymous-calls-at-night-blos-stage-protest-at-ahmedabad-centre-10390071/",
       "source": "The Indian Express"
     },
     {
-      "title": "Sensex’s 1000-point rally: How it happened and why it’s all set for a bull run",
-      "summary": "Stock markets rallied 1.2 percent Wednesday, and are all set to hit record high in the coming days. Here’s what has changed in the last few days.",
-      "link": "https://indianexpress.com/article/explained/everyday-explainers/sensexs-1000-point-rally-how-it-happened-and-why-its-all-set-for-a-bull-run-10387453/",
+      "title": "UPSC Key: Bangladesh’s request to extradite Hasina, Rare earth magnet scheme, and Digital sovereignty",
+      "summary": "UPSC current affairs: How is the Centre’s approval of the rare-earth magnet scheme important for your UPSC exam? What significance do topics such as digital sovereignty, Aravalli Hills, and Bill on a single higher education authority have for both the Prelimi…",
+      "link": "https://indianexpress.com/article/upsc-current-affairs/upsc-key-extradite-hasina-rare-earth-magnet-digital-sovereignty-10389499/",
       "source": "The Indian Express"
     },
     {
-      "title": "Will approach Amit Shah if CM fails to ask Ajit to step down in 24 hrs: Activist Anjali Damania in Pune land deal case",
-      "summary": "NCP says await for probe committee report",
-      "link": "https://indianexpress.com/article/cities/pune/will-approach-amit-shah-if-cm-fails-to-ask-ajit-to-step-down-in-24-hrs-activist-anjali-damania-in-pune-land-deal-case-10388114/",
+      "title": "Why PM POSHAN is more than just a nutritional intervention",
+      "summary": "In addition to being a nutritional intervention, the PM POSHAN scheme plays a crucial role in promoting educational access, social equity, and overall child development. How can nutrition awareness among schoolchildren further support these objectives, and ho…",
+      "link": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/why-pm-poshan-is-more-than-just-a-nutritional-intervention-10389607/",
       "source": "The Indian Express"
     },
     {
-      "title": "India vs South Africa Live Cricket Score, 2nd Test Day 5: Can IND survive SA onslaught on final day in Guwahati?",
-      "summary": "IND vs SA Live Cricket Score, India vs South Africa 2nd Test Day 5 Match Live Score Updates: India have a mountain to climb coming into the 5th and final day of the 2nd Test against South Africa in Guwahati, needing 522 runs to win the match.",
-      "link": "https://indianexpress.com/article/sports/cricket/india-vs-south-africa-2nd-test-day-5-live-cricket-score-ind-vs-sa-scorecard-guwahati-live-updates-10386126/",
+      "title": "Why Congress govt move to expand Hyderabad civic body has BJP feeling uneasy",
+      "summary": "Revanth Reddy government insists administrative reasons behind the move, but BJP and BRS not convinced, target the CM over “political greed”",
+      "link": "https://indianexpress.com/article/political-pulse/why-congress-move-to-expand-hyderabad-civic-body-has-bjp-feeling-uneasy-10389783/",
       "source": "The Indian Express"
     }
   ]
