@@ -1,41 +1,53 @@
 {
   "Indian Economy": [
     {
-      "title": "Towards measuring the economy more accurately",
-      "summary": "The govt has upgraded statistical systems to capture job, output, income, consumption and investment data more reliably and frequently",
-      "link": "https://www.thehindubusinessline.com/opinion/towards-measuring-the-economy-more-accurately/article70346671.ece",
-      "source": "BusinessLine"
-    },
-    {
-      "title": "What awaits the US in 2026: A Goldilocks economy, shallow recession or no-landing scenario?",
-      "summary": "Many indicators point to economic weakness in America, but the downturn may be short-lived. If the US economy stages a recovery in 2026 and the Chinese economy stays resilient, the global outlook will improve. Proceed with cautious optimism.",
-      "link": "https://www.livemint.com/opinion/online-views/us-economy-2026-goldilocks-economy-recession-no-landing-scenario-donald-trump-11764569644034.html",
-      "source": "Livemint"
-    },
-    {
-      "title": "The IMF’s critique of India’s economic statistics is not a cause for alarm but a cue to improve data quality",
-      "summary": "The Fund awarded India a ‘C’ grade in its assessment of our macro data quality. Its criticism of our estimates is best taken as a cue to further improve the country’s statistical framework. Thankfully, remedial work has already begun.",
-      "link": "https://www.livemint.com/opinion/online-views/imf-india-economic-statistics-data-quality-international-monetary-fund-mospi-gdp-11764592323494.html",
-      "source": "Livemint"
-    },
-    {
-      "title": "India in a 'sweet spot', GDP growth to grow over 7% this fiscal: FICCI President",
-      "summary": "Goenka also said that the chamber's focus for the coming year would be to increase the share of the manufacturing sector in the GDP from its current 15-17% to 20-25% levels over time",
-      "link": "https://www.thehindubusinessline.com/economy/india-in-a-sweet-spot-gdp-growth-to-grow-over-7-this-fiscal-ficci-president/article70348705.ece",
-      "source": "BusinessLine"
-    },
-    {
-      "title": "Rupee has fallen and that is not a bad thing",
-      "summary": "The Reserve Bank of India’s (RBI) data shows the REER index dipping from an all-time high of 108.1 in November 2024 to 97.5 in October 2025.",
-      "link": "https://indianexpress.com/article/opinion/editorials/rupee-has-fallen-and-that-is-not-a-bad-thing-10396775/",
+      "title": "The rupee’s real problem: A rising import bill and stagnant exports",
+      "summary": "Persistent external-sector vulnerabilities, not short-term shocks, are driving India’s currency under pressure",
+      "link": "https://indianexpress.com/article/opinion/columns/the-rupees-real-problem-a-rising-import-bill-and-stagnant-exports-10399689/",
       "source": "The Indian Express"
+    },
+    {
+      "title": "Montek Singh Ahluwalia & Utkarsh Patel write: A seven-point plan to scale up our climate ambition",
+      "summary": "Announcing a date for peaking emissions will give credibility to our commitment to decarbonise. It will also help counter the criticism that India is the third-largest emitter and its emissions continue to grow",
+      "link": "https://indianexpress.com/article/opinion/columns/montek-singh-ahluwalia-utkarsh-patel-write-a-seven-point-plan-to-scale-up-our-climate-ambition-10400880/",
+      "source": "The Indian Express"
+    },
+    {
+      "title": "US banker quits JPMorgan to work with MrBeast, takes 50% pay cut: ‘I used to work 80 to 100 hours a week’",
+      "summary": "Bart Dziedzic grew up in Darien, Connecticut, the son of Polish immigrants who often struggled with money. Even as he built an impressive resume, he never felt at home in traditional finance.",
+      "link": "https://indianexpress.com/article/trending/trending-globally/us-banker-quits-jpmorgan-to-work-with-mrbeast-takes-50-percent-pay-cut-10399562/",
+      "source": "The Indian Express"
+    },
+    {
+      "title": "For a sustainably higher growth path, India mustn’t just mobilize more labour and capital but deploy them more efficient",
+      "summary": "India has recorded GDP growth that makes Viksit Bharat status look reachable, but a closer look reveals that capital deepening has weakened while productivity has been stagnant. This presents a challenge for policymakers who must work out how to push up the e…",
+      "link": "https://www.livemint.com/opinion/online-views/india-gdp-sustainable-growth-labour-capital-efficiency-productivity-capital-viksit-bharat-11764662497536.html",
+      "source": "Livemint"
+    },
+    {
+      "title": "India’s economy: GST trends, fiscal pressures and the road ahead",
+      "summary": "“My sense is inflation is so benign, and likely to remain so for the next few months, that the RBI should use this opportunity to go ahead with rate cuts… We are pencilling in a 25-basis-point cut for the December meeting,” says Upasana Bhardwaj, Chief Econom…",
+      "link": "https://www.thehindubusinessline.com/multimedia/audio/indias-economy-gst-trends-fiscal-pressures-and-the-road-ahead/article70352352.ece",
+      "source": "BusinessLine"
     }
   ],
   "Stock Market": [
     {
-      "title": "Top Business & Market Headlines Today — BL Morning Report, Dec 02, 2025",
-      "summary": "BL Morning Report Dec 02, 2025: Get today’s top business news, market headlines about the Stock Market, Sensex & Nifty trends, key market insights, economic highlights, and the latest updates from India and global markets.",
-      "link": "https://www.thehindubusinessline.com/multimedia/audio/top-business-amp-market-headlines-today-bl-morning-report-dec-1-2025/article70346990.ece",
+      "title": "Sensex, Nifty set to reverse 3-day declining trend",
+      "summary": "Foreign investor outflows worth ₹3,642 crore on Tuesday, pressured the rupee, which weakened to a record low of 90 per US dollar",
+      "link": "https://www.thehindubusinessline.com/markets/sensex-nifty-set-to-reverse-3-day-declining-trend/article70351928.ece",
+      "source": "BusinessLine"
+    },
+    {
+      "title": "Share Market Highlights: Markets end marginally higher; Sensex closes at 85,265, Nifty at 26,034",
+      "summary": "Sensex, Nifty updates on 4 December 2025: Benchmark indices ended slightly higher on Thursday as investors stayed on the sidelines ahead of the Reserve Bank of India’s monetary policy outcome on Friday. The Sensex rose 158.51 points to close at ₹85,265.32, wh…",
+      "link": "https://www.thehindubusinessline.com/markets/stock-market-highlights-4-december-2025/article70353053.ece",
+      "source": "BusinessLine"
+    },
+    {
+      "title": "Rupee plunges to record low of 90.14 per Dollar as markets extend losing streak",
+      "summary": "Benchmark indices extended their losing streak to a fourth consecutive session on Wednesday, with the Nifty50 closing at 25,986, down 46.20 points or 0.18%, while the Sensex ended marginally lower at 85,106.81, shedding 31.46 points or 0.04%",
+      "link": "https://www.thehindubusinessline.com/markets/rupee-plunges-to-record-low-of-9014-per-dollar-as-markets-extend-losing-streak/article70353434.ece",
       "source": "BusinessLine"
     },
     {
@@ -45,42 +57,36 @@
       "source": "BusinessLine"
     },
     {
-      "title": "Stock Market Live Updates today December 2, 2025: Stock to buy today: Granules India (₹568.70) – BUY",
-      "summary": "Sensex, Nifty, Share Prices LIVE: The short-term outlook is bullish for Granules India. The rise on Monday has taken the share price well above the 21-Day Moving Average (DMA). It also confirms the end of the correction that was in place since mid-October thi…",
-      "link": "https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-2nd-dec-2025/article70346484.ece",
-      "source": "BusinessLine"
-    },
-    {
-      "title": "Stock benchmarks set to open higher after pause near record highs",
-      "summary": "Stock benchmarks are set to open higher after profit booking, following record highs and mixed global market trends.",
-      "link": "https://www.thehindubusinessline.com/markets/stock-benchmarks-set-to-open-higher-after-pause-near-record-highs/article70347945.ece",
-      "source": "BusinessLine"
-    },
-    {
-      "title": "Nifty Bank Prediction Today – December 2, 2025: Nifty Bank futures: Uncertainty persists, traders can stay out",
-      "summary": "Nifty Bank futures (December) can fall to 59,200 if it breaks below 59,700",
-      "link": "https://www.thehindubusinessline.com/portfolio/technical-analysis/nifty-bank-prediction-today-december-2-2025-nifty-bank-futures-uncertainty-persists-traders-can-stay-out/article70348108.ece",
+      "title": "Sensex, Nifty tumble as caution builds before RBI MPC outcome; PSU Bank index down 3%, IT stocks hold firm",
+      "summary": "Wipro, TCS, ICICI Bank, Hindalco, Axis Bank and Infosys led the Nifty 50 gains, while Max Health, Shriram Finance, Tata Consumer, Bharat Electronics and NTPC were the top losers.",
+      "link": "https://www.thehindubusinessline.com/markets/stock-markets/top-gainers-losers-on-nse-bse-midday-3rd-dec-2025-sensex-nifty-tumble-as-caution-builds-before-rbi-mpc-outcome-psu-bank-index-down-3-it-stocks-wipro-tcs-infosys-hold-firm/article70352555.ece",
       "source": "BusinessLine"
     }
   ],
   "Startups & Funding": [
     {
-      "title": "Seattle’s Yoodli secures $40 million to expand AI learning, strengthen team",
-      "summary": "Yoodli, an AI communication coaching platform, raised $40 million in a Series B funding led by WestBridge Capital. The funds will help the company enhance AI capabilities, and follow a $13.7 million round raised in May.",
-      "link": "https://www.livemint.com/companies/seattles-yoodli-secures-40-million-ai-learning-strengthen-team-westbridge-capital-neotribe-madrona-rishit-desai-11764683464956.html",
+      "title": "Devina Mehra: Whether there’s an AI bubble or not is a big question—here’s the lowdown on what’s brewing",
+      "summary": "The AI boom may presage a tech revolution. Yet, the stock market surge it has led is narrow and the industry has veered into risky territory with worrisome debt levels and circular deals exposing the financial world to contagion. AI could succeed, but will in…",
+      "link": "https://www.livemint.com/opinion/online-views/ai-bubble-investors-stock-market-openai-nvidia-artificial-intelligence-investing-tips-11764679262844.html",
       "source": "Livemint"
     },
     {
-      "title": "Fireside Ventures announces the final close of its Fund IV at ₹2,265 crore",
-      "summary": "With Fund IV, Fireside’s total assets under management now stand at ₹5,300 crore ($650 million), consolidating its position as one of India’s largest consumer brand-focused venture platforms",
-      "link": "https://www.thehindubusinessline.com/companies/fireside-ventures-announces-the-final-close-of-its-fund-iv-at-2265-crore/article70349919.ece",
+      "title": "Claude AI chatbot maker Anthropic planning IPO in 2026, says report",
+      "summary": "Anthropic, the artificial intelligence startup backed by Alphabet's Google and Amazon.com, has hired the law firm Wilson Sonsini to prepare for an initial public offering that could take place as early as 2026, the Financial Times reported on Tuesday.",
+      "link": "https://www.livemint.com/companies/news/anthropic-planning-ipo-in-2026-claude-ai-chatbot-maker-listing-raise-capital-funds-backing-google-amazon-says-ft-report-11764734775128.html",
+      "source": "Livemint"
+    },
+    {
+      "title": "India’s defence-tech startups are thriving",
+      "summary": "The recent war with Pakistan has infused new energy into the sector",
+      "link": "https://www.livemint.com/companies/start-ups/indias-defence-tech-startups-are-thriving-11764810418257.html",
+      "source": "Livemint"
+    },
+    {
+      "title": "Fenova uPVC Door & Window Systems Recognized by Forbes India DGEMS as a SELECT 200 Company with Global Business Potential",
+      "summary": "Fenova uPVC Door & Window Systems Recognized by Forbes India DGEMS as a SELECT 200 Company with Global Business Potential",
+      "link": "https://www.thehindubusinessline.com/brandhub/fenova-upvc-door-amp-window-systems-recognized-by-forbes-india-dgems-as-a-select-200-company-with-global-business-potential/article70352834.ece",
       "source": "BusinessLine"
-    },
-    {
-      "title": "Time, not capital, is a disruptor: Wakefit founder Ramalingegowda",
-      "summary": "The company, which started as a direct-to-consumer player, now sells through marketplaces, quick commerce, its own website, channels, and offline stores. It has around 125 stores and plans to open another 170 over the next 12 to 18 months.",
-      "link": "https://www.livemint.com/companies/news/time-not-capital-is-a-disruptor-wakefit-founder-ramalingegowda-11764681388404.html",
-      "source": "Livemint"
     },
     {
       "title": "IIT placements bring startups into a hiring war with the bigwigs, who wins?",
@@ -91,28 +97,28 @@
   ],
   "Banking & Finance": [
     {
-      "title": "Rupee has fallen and that is not a bad thing",
-      "summary": "The Reserve Bank of India’s (RBI) data shows the REER index dipping from an all-time high of 108.1 in November 2024 to 97.5 in October 2025.",
-      "link": "https://indianexpress.com/article/opinion/editorials/rupee-has-fallen-and-that-is-not-a-bad-thing-10396775/",
+      "title": "Rupee breaches 90-mark against dollar: US-India trade deal uncertainty, FPI outflows weighing on sentiments",
+      "summary": "Forex market participants that the Reserve Bank of India (RBI) was active in the market to moderate the fall in the rupee, though its intervention seems limited.",
+      "link": "https://indianexpress.com/article/business/rupee-breaches-90-mark-us-india-trade-deal-uncertainty-fpi-weighing-sentiments-10399539/",
       "source": "The Indian Express"
     },
     {
-      "title": "Complaints to RBI ombudsman rise 13% in FY25; witness jump in grievances",
-      "summary": "Complaints to the RBI Ombudsman surged 13% in FY25, with notable grievances against private sector lenders and small finance banks.",
-      "link": "https://www.thehindubusinessline.com/money-and-banking/complaints-to-rbi-ombudsman-rise-13-in-fy25-witness-jump-in-grievances/article70347948.ece",
-      "source": "BusinessLine"
+      "title": "US banker quits JPMorgan to work with MrBeast, takes 50% pay cut: ‘I used to work 80 to 100 hours a week’",
+      "summary": "Bart Dziedzic grew up in Darien, Connecticut, the son of Polish immigrants who often struggled with money. Even as he built an impressive resume, he never felt at home in traditional finance.",
+      "link": "https://indianexpress.com/article/trending/trending-globally/us-banker-quits-jpmorgan-to-work-with-mrbeast-takes-50-percent-pay-cut-10399562/",
+      "source": "The Indian Express"
     },
     {
-      "title": "RBI Ombudsman saw 13% increase in consumer complaints in FY25: Here's how to resolve your grievances",
-      "summary": "Grievances against the banks comprised the largest portion, accounting for 81% of complaints received. This was followed by NBFCs accounting for 14.80% of complaints received during FY 2024-25.",
-      "link": "https://www.livemint.com/money/personal-finance/rbi-ombudsman-saw-13-increase-in-consumer-complaints-in-fy25-heres-how-to-resolve-your-grievances-11764681127264.html",
+      "title": "RBI Ombudsman grievance data shows high retail discontent: Remedial measures, please",
+      "summary": "Grievance data from RBI’s report on its Ombudsman Scheme shows a sharp rise in complaints. Much discontent can be traced to the private sector’s aggressive retail push of recent years. Is the RBI governor’s caution at risk of falling on deaf ears?",
+      "link": "https://www.livemint.com/opinion/rbi-ombudsman-grievance-data-retail-discontent-banking-credit-loans-private-banks-11764765942231.html",
       "source": "Livemint"
     },
     {
-      "title": "International Day for People With Disabilities: ‘Biggest challenge is acceptance’: How head of Buddhist studies at SPPU did not let his visual impairment mar his ambition",
-      "summary": "Born on November 16, 1975 in Maharashtra, Mahesh Ashok Deokar had a normal childhood until his vision loss.",
-      "link": "https://indianexpress.com/article/cities/pune/people-with-disabilities-buddhist-studies-sppu-visual-impairment-10398734/",
-      "source": "The Indian Express"
+      "title": "Sensex, Nifty tumble as caution builds before RBI MPC outcome; PSU Bank index down 3%, IT stocks hold firm",
+      "summary": "Wipro, TCS, ICICI Bank, Hindalco, Axis Bank and Infosys led the Nifty 50 gains, while Max Health, Shriram Finance, Tata Consumer, Bharat Electronics and NTPC were the top losers.",
+      "link": "https://www.thehindubusinessline.com/markets/stock-markets/top-gainers-losers-on-nse-bse-midday-3rd-dec-2025-sensex-nifty-tumble-as-caution-builds-before-rbi-mpc-outcome-psu-bank-index-down-3-it-stocks-wipro-tcs-infosys-hold-firm/article70352555.ece",
+      "source": "BusinessLine"
     },
     {
       "title": "Heartburn at lenders as loan rates fall but deposit rates don't",
@@ -123,33 +129,33 @@
   ],
   "Technology Sector": [
     {
-      "title": "Vivo X300 review: Outstanding cameras, superior performance make for the best compact flagship",
-      "summary": "A smartphone that promises smooth UI, faster performance, and cameras that deliver stunning frames is what drives a user. The Vivo X300 is a refreshing take on an all-rounder Android flagship.",
-      "link": "https://indianexpress.com/article/technology/tech-reviews/vivo-x300-review-10397571/",
+      "title": "Sensex, Nifty tumble as caution builds before RBI MPC outcome; PSU Bank index down 3%, IT stocks hold firm",
+      "summary": "Wipro, TCS, ICICI Bank, Hindalco, Axis Bank and Infosys led the Nifty 50 gains, while Max Health, Shriram Finance, Tata Consumer, Bharat Electronics and NTPC were the top losers.",
+      "link": "https://www.thehindubusinessline.com/markets/stock-markets/top-gainers-losers-on-nse-bse-midday-3rd-dec-2025-sensex-nifty-tumble-as-caution-builds-before-rbi-mpc-outcome-psu-bank-index-down-3-it-stocks-wipro-tcs-infosys-hold-firm/article70352555.ece",
+      "source": "BusinessLine"
+    },
+    {
+      "title": "Rupee breaches 90-mark against dollar: US-India trade deal uncertainty, FPI outflows weighing on sentiments",
+      "summary": "Forex market participants that the Reserve Bank of India (RBI) was active in the market to moderate the fall in the rupee, though its intervention seems limited.",
+      "link": "https://indianexpress.com/article/business/rupee-breaches-90-mark-us-india-trade-deal-uncertainty-fpi-weighing-sentiments-10399539/",
       "source": "The Indian Express"
     },
     {
-      "title": "Indian man reveals his father takes away his entire salary, opens up about financial control: ‘This is abuse’",
-      "summary": "The man alleged that his father takes away his entire salary and doesn't even give him a monthly allowance.",
-      "link": "https://indianexpress.com/article/trending/trending-in-india/indian-man-reveals-his-father-takes-away-his-entire-salary-opens-up-about-financial-control-10397175/",
+      "title": "‘Snooping neither possible nor will happen’: Jyotiraditya Scindia rules out user data concerns over Sanchar Saathi app",
+      "summary": "The minister also said the government wants to give power to the people in order to help them protect themselves.",
+      "link": "https://indianexpress.com/article/india/sanchar-saathi-jjyotiraditya-scindia-snooping-privacy-concerns-10399650/",
       "source": "The Indian Express"
     },
     {
-      "title": "‘Big Brother cannot watch us’: Opposition hits back after Centre mandates Sanchar Saathi app on all smartphones",
-      "summary": "The Department of Telecommunications has told companies that users should not be able to delete Sanchar Saathi, which allows users to report fraudulent calls and messages, and stolen mobile phones.",
-      "link": "https://indianexpress.com/article/india/big-brother-cannot-watch-us-opposition-hits-back-after-centre-mandates-sanchar-saathi-app-on-all-smartphones-10397721/",
+      "title": "Delay, confusion over EWS group home plan triggers protests",
+      "summary": "Despite repeated representations, Singh said he was told his son’s inclusion required fresh approval from the Governing Body.",
+      "link": "https://indianexpress.com/article/cities/chandigarh/delay-confusion-over-ews-group-home-plan-triggers-protests-10400654/",
       "source": "The Indian Express"
     },
     {
-      "title": "First-ever AI model, cost-effective’: Mumbai to get its own independent AQI monitoring platform",
-      "summary": "At present, Mumbai has 28 Continuous Ambient Air Quality Monitoring Stations (CAAQMS) that record the city's AQI.",
-      "link": "https://indianexpress.com/article/cities/mumbai/ai-model-cost-effective-independent-aqi-monitoring-platform-10398071/",
-      "source": "The Indian Express"
-    },
-    {
-      "title": "India’s third n-sub soon, in final stages of trial: Navy chief",
-      "summary": "A senior Navy officer said the Russian SSN is likely to be delivered in 2027-28. “We are pushing for 2027, but it may come by 2028,” the officer said.",
-      "link": "https://indianexpress.com/article/india/indias-third-n-sub-soon-in-final-stages-of-trial-navy-chief-10398712/",
+      "title": "Delay, confusion over EWS group home plan triggers protests",
+      "summary": "The Group Home, inaugurated earlier this year and hailed as a first-of-its-kind initiative, had initially promised to accommodate EWS and paid-category residents under one roof.",
+      "link": "https://indianexpress.com/article/cities/chandigarh/delay-confusion-over-ews-group-home-plan-triggers-protests-10400723/",
       "source": "The Indian Express"
     }
   ]
