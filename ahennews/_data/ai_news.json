@@ -1,6 +1,18 @@
 {
   "Indian Economy": [
     {
+      "title": "Are there gaps in India’s economic data?",
+      "summary": "IMF has raised concerns over national accounts and prices data, in its Article IV consultations",
+      "link": "https://www.thehindubusinessline.com/opinion/are-there-gaps-in-indias-economic-data/article70400000.ece",
+      "source": "BusinessLine"
+    },
+    {
+      "title": "Inflation is low, but policymakers cannot take their eye off the ball",
+      "summary": "If one takes away food prices, core inflation has actually been trending up over the past year and stands at 4.3 per cent — from 0.7per cent",
+      "link": "https://indianexpress.com/article/opinion/editorials/inflation-is-low-but-policymakers-cannot-take-their-eye-off-the-ball-10420337/",
+      "source": "The Indian Express"
+    },
+    {
       "title": "The ‘going out’ economy",
       "summary": "Indians increasingly embrace the 'going out' economy, with cinema, concerts, and theatre thriving in 2025.",
       "link": "https://www.thehindubusinessline.com/catalyst/the-going-out-economy/article70395911.ece",
@@ -13,100 +25,125 @@
       "source": "Livemint"
     },
     {
-      "title": "Ficci president: To catapult the economy, we must reform India’s markets for land, power and capital",
-      "summary": "India’s growth numbers are impressive, but to set the stage for long-term prosperity, we need bold factor market reforms. For the competitiveness needed to turn India into a global manufacturing hub, focus on land, power and capital. Here’s what could be done.",
-      "link": "https://www.livemint.com/opinion/online-views/ficci-president-indian-economy-reform-markets-land-power-capital-factor-manufacturing-hub-11765538165621.html",
+      "title": "Mint Quick Edit | Rajasthan led a post-pandemic boom in domestic tourism: Now let’s attract foreign visitors",
+      "summary": "Rajasthan was the big gainer of a post-pandemic surge in tourism within India. But with wobbly capital inflows—even if our trade deficit’s looking better—the economy needs an exponential rise in dollar-spending foreign tourists.",
+      "link": "https://www.livemint.com/opinion/online-views/rajasthan-post-pandemic-boom-domestic-tourism-attract-foreign-visitors-tourists-capital-inflows-forex-11765816028918.html",
       "source": "Livemint"
-    },
-    {
-      "title": "Wealth tax: Is it the solution or the problem?",
-      "summary": "Debt-ridden France is mulling wealth tax on the ultra rich. That the rich may shift to tax havens shouldn’t stall the move",
-      "link": "https://www.thehindubusinessline.com/opinion/wealth-tax-is-it-the-solution-or-the-problem/article70396402.ece",
-      "source": "BusinessLine"
-    },
-    {
-      "title": "India ranks third in Global AI Index after US, China",
-      "summary": "According to Stanford University’s Global AI Vibrancy Tool report, India’s ranking increased because of the major initiatives undertaken to strengthen AI ecosystem.",
-      "link": "https://www.thehindubusinessline.com/info-tech/india-ranks-third-in-global-ai-index-after-us-china/article70395165.ece",
-      "source": "BusinessLine"
     }
   ],
   "Stock Market": [
     {
-      "title": "As OFS-heavy IPOs surge, Madhusudan Kela lays down his investing rule",
-      "summary": "Ace investor Madhusudan Kela emphasized that exits are not a concern if the company does not require fresh capital, and the public issue is attractively priced.",
-      "link": "https://www.livemint.com/companies/news/as-ofs-heavy-ipos-surge-madhusudan-kela-lays-down-his-investing-rule-11765694038746.html",
-      "source": "Livemint"
+      "title": "Sensex, Nifty slip marginally as India–US trade talks, FII outflows weigh",
+      "summary": "IndiGo, Trent, HUL, HCL Tech and Wipro topped the Nifty 50 gainers, while M&M, Eicher Motors, ONGC, Bajaj Auto and JSW Steel led the losers.",
+      "link": "https://www.thehindubusinessline.com/markets/stock-market-today-15th-dec-2025-sensex-nifty-slip-marginally-as-indiaus-trade-talks-fii-outflows-weigh-indigo-trent-hul-lead-gainers/article70398779.ece",
+      "source": "BusinessLine"
     },
     {
-      "title": "Stock Market Live Updates 15 Dec 2025: Stock to buy today: Grasim Industries",
-      "summary": "Sensex, Nifty, Share Prices LIVE: The short-term outlook is bullish for Grasim Industries. The 1.4 per cent rise on Friday has taken the share price well above the key psychological resistance level of ₹2,800. \n\nThe recent rise is happening after forming a go…",
-      "link": "https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-15th-december-2025/article70395276.ece",
+      "title": "Top Business & Market Headlines Today — BL Morning Report, Dec 15, 2025",
+      "summary": "BL Morning Report Dec 15, 2025: Get today’s top business news, market headlines about the Stock Market, Sensex & Nifty trends, key market insights, economic highlights, and the latest updates from India and global markets.",
+      "link": "https://www.thehindubusinessline.com/multimedia/audio/bl-morning-report-december-15-2025/article70395182.ece",
+      "source": "BusinessLine"
+    },
+    {
+      "title": "Nifty Bank Prediction Today – December 15, 2025: Nifty Bank futures: Go long on a dip",
+      "summary": "Nifty Bank futures (December) has supports at 59,150 and 59,000 which can help in the rebound",
+      "link": "https://www.thehindubusinessline.com/portfolio/technical-analysis/nifty-bank-prediction-today-december-15-2025-nifty-bank-futures-go-long-on-a-dip/article70397854.ece",
+      "source": "BusinessLine"
+    },
+    {
+      "title": "Nifty Prediction Today – December 15, 2025: Nifty 50 Futures: Can bounce from the support. Go long on dips",
+      "summary": "Nifty 50 outlook for December 15, 2025: anticipate a bounce from 25,960; go long on dips for potential gains.",
+      "link": "https://www.thehindubusinessline.com/portfolio/technical-analysis/nifty-prediction-today-december-15-2025-nifty-50-futures-can-bounce-from-the-support-go-long-on-dips/article70397803.ece",
+      "source": "BusinessLine"
+    },
+    {
+      "title": "Stock markets open lower on foreign fund outflows, weak global trends",
+      "summary": "From the Sensex firms, Mahindra & Mahindra, Bharti Airtel, Trent, NTPC, Bajaj Finserv and Power Grid were among the major laggards",
+      "link": "https://www.thehindubusinessline.com/markets/stock-markets-open-lower-on-foreign-fund-outflows-weak-global-trends/article70397792.ece",
       "source": "BusinessLine"
     }
   ],
-  "Startups & Funding": [],
+  "Startups & Funding": [
+    {
+      "title": "Kerala Startup Mission ties up with German ecosystem to support start-ups",
+      "summary": "The MoU was signed the start-up festival Huddle Global 2025 between by KSUM CEO Anoop Ambika and Thomas Neumann, Head, Karlsruhe Institute of Technology, Germany in the presence of Kerala Chief Minister Pinarayi Vijayan.",
+      "link": "https://www.thehindubusinessline.com/news/kerala-startup-mission-ties-up-with-german-ecosystem-to-support-start-ups/article70398645.ece",
+      "source": "BusinessLine"
+    },
+    {
+      "title": "Kerala Startup Mission, German consortium partner to boost deep-tech start-ups",
+      "summary": "KSUM partners with Germany's NXTGN to support deep-tech startups, fostering innovation and employment at Huddle Global 2025.",
+      "link": "https://www.thehindubusinessline.com/news/national/kerala-startup-mission-german-consortium-partner-to-boost-deep-tech-start-ups/article70398574.ece",
+      "source": "BusinessLine"
+    },
+    {
+      "title": "Small baskets, big ambition: Why CityMall’s Bharat play is under strain",
+      "summary": "CityMall is taking on one of the toughest e-commerce challenges in India: winning small-town shoppers on wafer-thin margins. It has backers with deep pockets, a stripped-down supply chain and big ambitions. But it is yet to crack the market and build scale.",
+      "link": "https://www.livemint.com/companies/citymall-small-town-ecommerce-bharat-grocery-model-challenges-11765797086729.html",
+      "source": "Livemint"
+    }
+  ],
   "Banking & Finance": [
     {
-      "title": "Benign inflationary trends leave space for RBI’s MPC to cut repo further, economists say",
-      "summary": "Headline inflation appears to have bottomed out in October but is expected to remain well below the RBI’s 4% target for the rest of the year",
-      "link": "https://www.thehindubusinessline.com/economy/benign-inflationary-trends-leave-space-for-rbis-mpc-to-cut-repo-further-economists-say/article70395361.ece",
+      "title": "Hunting for rating upgrade, Shriram Finance eyes selling up to 15% stake to foreign investors",
+      "summary": "Shriram Finance seeks to sell up to 15% stake to foreign investors to enhance its credit rating amid ongoing talks.",
+      "link": "https://www.thehindubusinessline.com/money-and-banking/hunting-for-rating-upgrade-shriram-finance-eyes-selling-up-to-15-stake-to-foreign-investors/article70399395.ece",
       "source": "BusinessLine"
     },
     {
-      "title": "We are very bullish on growing India’s networking portfolio: Bhawna Agarwal, HPE India, SVP and MD",
-      "summary": "Earlier, HPE had talked about plans to improve user experience with secure AI self-driving networks to reduce trouble tickets and lower operating costs.",
-      "link": "https://www.thehindubusinessline.com/info-tech/we-are-very-bullish-on-growing-indias-networking-portfolio-bhawna-agarwal-hpe-india-svp-and-md/article70395909.ece",
+      "title": "Daily Horoscope Today, Dec 16, 2025: Comprehensive Astrological Predictions for Libra, Leo, Pisces, Aries, and All Zodiac Signs",
+      "summary": "Horoscope Today, Tuesday, Dec 16, 2025: Libra, Leo, Pisces and Aries may face early challenges, but planetary shifts bring relief, emotional clarity and positive turnarounds by evening across all zodiac signs.",
+      "link": "https://indianexpress.com/article/horoscope/daily-horoscope-today-dec-16-2025-astrological-predictions-for-libra-leo-pisces-aries-and-other-zodiac-signs-10419671/",
+      "source": "The Indian Express"
+    },
+    {
+      "title": "RBI’s ₹75,000 crore 11-day VRR receives tepid response from banks",
+      "summary": "This suggests that banks currently do not see a pressing need to draw additional liquidity through longer-tenor VRR operations, as systemic liquidity remains comfortable at over ₹2 trillion.",
+      "link": "https://www.thehindubusinessline.com/money-and-banking/rbis-75000-crore-11-day-vrr-receives-tepid-response-from-banks/article70400052.ece",
       "source": "BusinessLine"
     },
     {
-      "title": "Hydrogen demand in India set to double to 12 million tonnes by 2030: Report",
-      "summary": "India's hydrogen demand is expected to double to 12 million tonnes by 2030, driven by fertiliser, refining, and petrochemical sectors.",
-      "link": "https://www.thehindubusinessline.com/news/hydrogen-demand-in-india-set-to-double-to-12-million-tonnes-by-2030-report/article70394871.ece",
+      "title": "RBI's $5 billion FX to sail through, high hedging costs cloud corporate appetite",
+      "summary": "The Reserve Bank of India’s three-year dollar–rupee swap is expected to be fully subscribed, though bankers say a run-up in hedging costs is likely to keep corporate participation muted.",
+      "link": "https://www.thehindubusinessline.com/money-and-banking/rbis-5-billion-fx-to-sail-through-high-hedging-costs-cloud-corporate-appetite/article70398359.ece",
       "source": "BusinessLine"
     },
     {
-      "title": "Andhra Pradesh becomes India’s top fruit, fish producer amid steady economic growth: RBI report",
-      "summary": "Andhra Pradesh leads in fruit and fish production, showcasing steady economic growth and progress in various sectors, says RBI report.",
-      "link": "https://www.thehindubusinessline.com/news/national/andhra-pradesh-becomes-indias-top-fruit-fish-producer-amid-steady-economic-growth-rbi-report/article70396403.ece",
-      "source": "BusinessLine"
-    },
-    {
-      "title": "Hong Kong, India fuel blockbuster year for Asia fundraising",
-      "summary": "Not long ago, Hong Kong’s share-sale market was a symbol of China’s slowdown: Deal books were thin, investor sentiment was sour and bankers were fleeing the industry. This year, the script has flipped.",
-      "link": "https://www.livemint.com/industry/hong-kong-india-fuel-blockbuster-year-for-asia-fundraising-11765681716097.html",
+      "title": "Armed with new RBI approvals, HSBC India's Hitendra Dave wants a seat at the big banks' table",
+      "summary": "HSBC India's CEO Hitendra Dave plans to expand the bank's presence by opening 20 new branches after receiving RBI approval. He wants his bank to be among the top five private sector lenders in India, focusing on affluent customers and leveraging opportunities…",
+      "link": "https://www.livemint.com/industry/banking/hsbc-india-hitendra-dave-unveils-ambitious-growth-plan-new-branches-wealth-consumer-banking-11765789353798.html",
       "source": "Livemint"
     }
   ],
   "Technology Sector": [
     {
-      "title": "IND vs SA: Hardik Pandya becomes 3rd Indian player to take 100 T20I wickets",
-      "summary": "Pandya, who was out for 2 months due to a quadriceps injury he sustained during the Asia Cup, had made his return to the India set up in the 1st T20I in Cuttack where he blazed a quickfire 59 runs off 28 balls",
-      "link": "https://indianexpress.com/article/sports/cricket/ind-vs-sa-hardik-pandya-3rd-indian-player-100-t20i-wickets-10415277/",
+      "title": "40 years ago December 15, 1985: Rajiv’s peace initiative",
+      "summary": "This is the front page of The Indian Express published on December 15, 1985.",
+      "link": "https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-december-15-1985-rajivs-peace-initiative-10420410/",
       "source": "The Indian Express"
     },
     {
-      "title": "How Gujarat Police navigated a territorial tangle after intercepting Pak fishermen, boat",
-      "summary": "The miscalculation was of the distance at sea from shore, which in turn complicated the issue of jurisdiction of the investigation on land.",
-      "link": "https://indianexpress.com/article/cities/ahmedabad/how-gujarat-police-territorial-tangle-intercept-pakistan-fishermen-boat-10419353/",
+      "title": "Abhinav Bindra reacts to mismanagement during Messi’s GOAT Tour in Kolkata: ‘What were we really trying to achieve?’",
+      "summary": "Olympic gold-winning former Indian shooter Abhinav Bindra addressed the incident, saying he feels a \"quiet sadness\" seeing millions being spent for just photographs and standing next to the legend.",
+      "link": "https://indianexpress.com/article/trending/trending-in-india/abhinav-bindra-reacts-to-mismanagement-during-messi-goat-tour-in-kolkata-10421426/",
       "source": "The Indian Express"
     },
     {
-      "title": "Nationwide encroachment on Indian Railways land crosses 1,068 hectares",
-      "summary": "Vaishnaw was responding to a question raised by Rajya Sabha MP Dr Laxmikant Bajpayee regarding railway land parcels currently under encroachment across the country.",
-      "link": "https://indianexpress.com/article/india/nationwide-encroachment-on-indian-railways-land-crosses-1068-hectares-10419756/",
+      "title": "Knowledge Nugget | Prime Minister Professorship: What aspirants must know for the UPSC Exam",
+      "summary": "The Prime Minister Professorship is in the news—but what exactly is it, and who has been selected as one of its first recipients? Here’s what aspirants should take note of for the UPSC exam. Also, go ‘Beyond the Nugget’ to learn about other government program…",
+      "link": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/knowledge-nugget-prime-minister-professorship-upsc-exam-10421165/",
       "source": "The Indian Express"
     },
     {
-      "title": "Operation Sindoor 2.0 not a possibility but inevitability: Retired Lieutenant General Dushyant Singh",
-      "summary": "\"The earlier we prepare for it, the better we are; the operation marked the beginning of a new dynamic of escalation management,\" Singh said.",
-      "link": "https://indianexpress.com/article/cities/ahmedabad/operation-sindoor-inevitability-retired-lieutenant-general-dushyant-singh-10420213/",
+      "title": "Silver Today Rate, December 15: Silver price today in India, Delhi, Hyderabad, Bangalore, Chennai, Mumbai and other silver rate list",
+      "summary": "Silver Rate Today on December 15: The price of silver in Indian markets strengthened on Monday, with the precious metal being quoted at ₹200.90 per gram and ₹2,00,900 per kilogram.",
+      "link": "https://indianexpress.com/article/news-today/silver-today-rate-december-15-silver-price-today-in-india-delhi-hyderabad-bangalore-chennai-mumbai-and-other-silver-rate-list-10421033/",
       "source": "The Indian Express"
     },
     {
-      "title": "Jeo Baby, Divya Prabha open up about their latest movie Ebb; director says The Great Indian Kitchen’s vision ‘came to me over time’",
-      "summary": "Express at IFFK 2025: Jeo Baby says his latest feature film, Ebb, also explores a man's mental health. Divya Prabha reveals how she chooses her projects these days.",
-      "link": "https://indianexpress.com/article/entertainment/malayalam/jeo-baby-divya-prabha-open-up-about-their-movie-ebb-and-the-great-indian-kitchen-10418990/",
+      "title": "Gujarat Confidential: ‘A historic day’",
+      "summary": "With the appointment of Bihar minister Nitin Nabi as the BJP's national working president, the Gujarat BJP highlighted that he is the party's “youngest” president and claimed that it is only in the BJP where a common party worker can get a place in top leader…",
+      "link": "https://indianexpress.com/article/cities/ahmedabad/gujarat-confidential-a-historic-day-10421922/",
       "source": "The Indian Express"
     }
   ]
